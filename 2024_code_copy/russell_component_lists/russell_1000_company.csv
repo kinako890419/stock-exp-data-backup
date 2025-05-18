@@ -1,0 +1,1008 @@
+Symbol,Name,Exchange,Industry,SIC Description
+A,Agilent Technologies,NYSE,Electronic Test Equipment,SIC-3826 Laboratory Analytical Instruments
+AA,Alcoa Corp,NYSE,Metal Products - Distribution,SIC-3334 Primary Production of Aluminium
+AAL,American Airlines Gp,NASDAQ,Transportation - Airline,"SIC-4512 Air Transportation, Scheduled"
+AAON,Aaon Inc,NASDAQ,Building Prdcts - Air Heating,SIC-3585 Air-Cond & Warm Air Heatg Equip & Comm & Ind
+AAP,Advance Auto Parts Inc,NYSE,Retail - Wholesale Auto Parts,SIC-5531 Retail-Auto & Home Supply Stores
+AAPL,Apple Inc,NASDAQ,Computer - Micro,SIC-3571 Electronic Computers
+ABBV,Abbvie Inc,NYSE,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations
+ABNB,Airbnb Inc Cl A,NASDAQ,Internet - Content,SIC-7340 Services-To Dwellings & Other Buildings
+ABT,Abbott Laboratories,NYSE,Medical Products,SIC-2834 Pharmaceutical Preparations
+ACGL,Arch Capital Grp Ltd,NASDAQ,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+ACHC,Acadia Healthcr Company,NASDAQ,Medical - Hospitals,"SIC-8093 Services-Specialty Outpatient Facilities, NE"
+ACI,Albertsons Companies Inc Cl A,NYSE,Consumer Prdts - Misc Staple,SIC-5411 Retail-Grocery Stores
+ACM,Aecom Technology Corp,NYSE,Engineering & R&D Services,SIC-8711 Services-Engineering Services
+ACN,Accenture Plc,NYSE,IT Services,"SIC-7389 Services-Business Services, NEC"
+ADBE,Adobe Systems Inc,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+ADC,Agree Realty Corp,NYSE,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts
+ADI,Analog Devices,NASDAQ,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices
+ADM,Archer Daniels Midland,NYSE,Agriculture Operations,SIC-2070 Fats & Oils
+ADP,Automatic Data Procs,NASDAQ,Outsourcing,SIC-7374 Services-Computer Processing & Data Preparat
+ADSK,Autodesk Inc,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+ADT,ADT Inc,NYSE,Protection - Safety,"SIC-7381 Services-Detective, Guard & Armored Car Serv"
+AEE,Ameren Corp,NYSE,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+AEP,American Electric Power Company,NASDAQ,Utility - Electric Power,SIC-4911 Electric Services
+AES,The Aes Corp,NYSE,Utility - Electric Power,SIC-4991 Cogeneration Services & Small Power Producer
+AFG,American Financial Group,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+AFL,Aflac Inc,NYSE,Insurance - Accident & Health,SIC-6321 Accident & Health Insurance
+AFRM,Affirm Holdings Inc Cl A,NASDAQ,Financial Transaction Services,SIC-6141 Personal Credit Institutions
+AGCO,Agco Corp,NYSE,Machinery - Farm,SIC-3523 Farm Machinery & Equipment
+AGNC,Agnc Investment Corp,NASDAQ,REIT - Mortgage Trusts,SIC-6798 Real Estate Investment Trusts
+AGO,Assured Guaranty Ltd,NYSE,Insurance - Multi Line,SIC-6351 Surety Insurance
+AGR,Avangrid Inc,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+AIG,American International Group,NYSE,Insurance - Multi Line,"SIC-6331 Fire, Marine & Casualty Insurance"
+AIZ,Assurant Inc,NYSE,Insurance - Multi Line,"SIC-6399 Insurance Carriers, NEC"
+AJG,Arthur J. Gallagher & Company,NYSE,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service"
+AKAM,Akamai Technologies,NASDAQ,Internet - Services,"SIC-7389 Services-Business Services, NEC"
+AL,Air Lease Corp Cl A,NYSE,Transportation - Equip & Lease,"SIC-7359 Services-Equipment Rental & Leasing, NEC"
+ALAB,Astera Labs Inc,NASDAQ,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices
+ALB,Albemarle Corp,NYSE,Chemical - Diversified,"SIC-2821 Plastic Materials, Synth Resins & Nonvulcan"
+ALGM,Allegro Microsystems Inc,NASDAQ,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices
+ALGN,Align Technology,NASDAQ,Medical - Dental Suppliers,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances"
+ALK,Alaska Air Group,NYSE,Transportation - Airline,"SIC-4512 Air Transportation, Scheduled"
+ALL,Allstate Corp,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+ALLE,Allegion Plc,NYSE,Protection - Safety,"SIC-7381 Services-Detective, Guard & Armored Car Serv"
+ALLY,Ally Financial,NYSE,Finance - Consumer Loans,SIC-6022 State Commercial Banks
+ALNY,Alnylam Pharmaceuticals,NASDAQ,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+ALSN,Allison Transmission Holdings,NYSE,Auto - Truck Original Parts,SIC-3714 Motor Vehicle Parts & Accessories
+AM,Antero Midstream Corp,NYSE,Oil - US Integrated,SIC-4922 Natural Gas Transmission
+AMAT,Applied Materials,NASDAQ,Semi-Eqpt Wafer Fabrication,SIC-3674 Semiconductors & Related Devices
+AMCR,Amcor Plc,NYSE,Containers - Paper Products,SIC-3990 Miscellaneous Manufacturing Industries
+AMD,Adv Micro Devices,NASDAQ,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices
+AME,Ametek Inc,NYSE,Electronic Test Equipment,"SIC-3823 Industrial Instruments For Measurement, Disp"
+AMED,Amedisys Inc,NASDAQ,Medical - Outpatient & Hm Care,SIC-8082 Services-Home Health Care Services
+AMG,Affiliated Managers Group,NYSE,Finance - Investment Mgmt,SIC-6282 Investment Advice
+AMGN,Amgen Inc,NASDAQ,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc"
+AMH,American Homes 4 Rent,NYSE,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts
+AMKR,Amkor Technology,NASDAQ,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices
+AMP,Ameriprise Financial Services,NYSE,Finance - Investment Mgmt,SIC-6282 Investment Advice
+AMT,American Tower Corp,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+AMZN,Amazon.com Inc,NASDAQ,Internet Commerce,SIC-5961 Retail-Catalog & Mail-Order Houses
+AN,Autonation Inc,NYSE,Retail - Wsale Auto & Trucks,SIC-5500 Retail-Auto Dealers & Gasoline Stations
+ANET,Arista Networks Inc,NYSE,Communications Components,SIC-3576 Computer Communications Equipment
+ANSS,Ansys Inc,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+AON,AON Plc,NYSE,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service"
+AOS,Smith A.O. Corp,NYSE,Machinery - Electrical,SIC-3630 Household Appliances
+APA,Apa Corp,NASDAQ,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+APD,Air Products and Chemicals,NYSE,Chemical - Diversified,SIC-2810 Industrial Inorganic Chemicals
+APG,Api Group Corp,NYSE,Business Services,SIC-7340 Services-To Dwellings & Other Buildings
+APH,Amphenol Corp,NYSE,Electronics - Connectors,SIC-3678 Electronic Connectors
+APLS,Apellis Pharmaceuticals Inc,NASDAQ,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+APO,Apollo Asset Management Inc,NYSE,Finance - Investment Mgmt,SIC-6282 Investment Advice
+APP,Applovin Corp Cl A,NASDAQ,Technology Services,"SIC-7370 Services-Computer Programming, Data Processi"
+APPF,Appfolio Cl A,NASDAQ,Internet - Software,SIC-7372 Services-Prepackaged Software
+APTV,Aptiv Plc,NYSE,Technology Services,SIC-3714 Motor Vehicle Parts & Accessories
+AR,Antero Resources Corp,NYSE,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+ARE,Alexandria Real Estate Equities,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+ARES,Ares Management LP,NYSE,Finance - Investment Mgmt,SIC-6282 Investment Advice
+ARMK,Aramark Holdings Corp,NYSE,Food - Misc & Diversified,SIC-5812 Retail-Eating Places
+ARW,Arrow Electronics,NYSE,Electronics - Parts Distrib,"SIC-5065 Wholesale-Electronic Parts & Equipment, NEC"
+AS,Amer Sports Inc,NYSE,Leisure & Recreational Prdcts,SIC-2300 Apparel & Other Finished Prods of Fabrics &
+ASH,Ashland Inc,NYSE,Chemical - Specialty,SIC-5160 Wholesale-Chemicals & Allied Products
+ATI,Ati Inc,NYSE,Steel - Specialty,SIC-3317 Steel Pipe & Tubes
+ATO,Atmos Energy Corp,NYSE,Utility - Gas Distribution,SIC-4924 Natural Gas Distribution
+ATR,Aptargroup,NYSE,Containers - Paper Products,"SIC-3089 Plastics Products, NEC"
+AVB,Avalonbay Communities,NYSE,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts
+AVGO,Broadcom Ltd,NASDAQ,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices
+AVT,Avnet Inc,NASDAQ,Electronics - Parts Distrib,"SIC-5065 Wholesale-Electronic Parts & Equipment, NEC"
+AVTR,Avantor Inc,NYSE,Medical Services,SIC-3826 Laboratory Analytical Instruments
+AVY,Avery Dennison Corp,NYSE,Office Supply & Forms,SIC-2670 Converted Paper & Paperboard Prods (No Conta
+AWI,Armstrong World Industries Inc,NYSE,Building & Construction - Misc,"SIC-3089 Plastics Products, NEC"
+AWK,American Water Works,NYSE,Utility - Water Supply,SIC-4941 Water Supply
+AXON,Axon Enterprise Inc,NASDAQ,Protection - Safety,"SIC-3480 Ordnance & Accessories, (No Vehicles/Guided"
+AXP,American Express Company,NYSE,Finance - Misc Services,SIC-6199 Finance Services
+AXS,Axis Capital Holdings,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+AXTA,Axalta Coating Systems Ltd,NYSE,Chemical - Specialty,"SIC-2851 Paints, Varnishes, Lacquers, Enamels & Allie"
+AYI,Acuity Brands Inc,NYSE,Building Products - Ltg FX,SIC-3640 Electric Lighting & Wiring Equipment
+AZEK,The Azek Company Cl A,NYSE,Building Prdcts - Air Heating,"SIC-3089 Plastics Products, NEC"
+AZO,Autozone,NYSE,Retail - Wholesale Auto Parts,SIC-5531 Retail-Auto & Home Supply Stores
+AZPN,Aspen Technology,NASDAQ,Internet - Software,SIC-7371 Services-Computer Programming Services
+AZTA,Azenta Inc,NASDAQ,Medical Information Systems,"SIC-3559 Special Industry Machinery, NEC"
+BA,Boeing Company,NYSE,Aerospace - Defense,SIC-3721 Aircraft
+BAC,Bank of America Corp,NYSE,Banks - Major Regional,SIC-6021 National Commercial Banks
+BAH,Booz Allen Hamilton Holding Corp,NYSE,Government Services,SIC-8742 Services-Management Consulting Services
+BALL,Ball Corporation,NYSE,Containers - Metal & Glass,SIC-3411 Metal Cans
+BAX,Baxter International Inc,NYSE,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus
+BBWI,Bath & Body Works Inc,NYSE,Retail - Misc & Diversified,SIC-5621 Retail-Womens Clothing Stores
+BBY,Best Buy Company,NYSE,Retail - Consumer Electronics,"SIC-5731 Retail-Radio, Tv & Consumer Electronics Stor"
+BC,Brunswick Corp,NYSE,Leisure & Recreational Prdcts,SIC-3510 Engines & Turbines
+BDX,Becton Dickinson and Company,NYSE,Medical - Dental Suppliers,SIC-3841 Surgical & Medical Instruments & Apparatus
+BEN,Franklin Resources,NYSE,Finance - Investment Mgmt,SIC-6282 Investment Advice
+BEPC,Brookfield Renewable Corp,NYSE,Other Alt Energy,SIC-4911 Electric Services
+BERY,Berry Global Group,NYSE,Containers - Paper Products,"SIC-3089 Plastics Products, NEC"
+BF-A,Brown Forman Inc Cl A,NYSE,Beverages - Alcohol,SIC-5181 Beer and Ale
+BF-B,Brown Forman Inc Cl B,NYSE,Beverages - Alcohol,SIC-2080 Beverages
+BFAM,Bright Horizons Family Solutions Inc,NYSE,Schools,SIC-8351 Services-Child Day Care Services
+BG,Bunge Ltd,NYSE,Agriculture Products,SIC-2070 Fats & Oils
+BHF,Brighthouse Financial Inc,NASDAQ,Insurance - Life,SIC-6311 Life Insurance
+BIIB,Biogen Inc,NASDAQ,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc"
+BILL,Bill Holdings Inc,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+BIO,Bio-Rad Laboratories,NYSE,Medical Products,SIC-3826 Laboratory Analytical Instruments
+BIRK,Birkenstock Holding Plc,NYSE,Shoes and Related Apparel,"SIC-3140 Footwear, (No Rubber)"
+BJ,Bj's Wholesale Club Holdings Inc,NYSE,Consumer Services - Misc,SIC-5331 Retail-Variety Stores
+BK,Bank of New York Mellon Corp,NYSE,Banks - Major Regional,SIC-6022 State Commercial Banks
+BKNG,Booking Holdings Inc,NASDAQ,Internet Commerce,SIC-4700 Transportation Services
+BKR,Baker Hughes Company,NASDAQ,Oil - Field Services,SIC-3533 Oil & Gas Field Machinery & Equipment
+BLD,Topbuild Corp,NYSE,Building & Construction - Misc,SIC-1700 Construction - Special Trade Contractors
+BLDR,Builders Firstsource,NYSE,Building Prds Retail - Wsale,SIC-5211 Retail-Lumber & Other Building Materials Dea
+BLK,Blackrock Inc,NYSE,Finance - Investment Mgmt,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+BMRN,Biomarin Pharmaceuticals,NASDAQ,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+BMY,Bristol-Myers Squibb Company,NYSE,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+BOKF,Bok Financial Corp,NASDAQ,Banks - Southwest,SIC-6021 National Commercial Banks
+BPOP,Popular Inc,NASDAQ,Banks - Southeast,SIC-6022 State Commercial Banks
+BR,Broadridge Financial Solutions Llc,NYSE,Outsourcing,SIC-2082 Malt Beverages
+BRBR,Bellring Brands Inc Cl A,NYSE,Medical Products,SIC-2000 Food and Kindred Products
+BRK-B,Berkshire Hathaway Cl B,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+BRKR,Bruker Corp,NASDAQ,Industrial Scientific,SIC-3826 Laboratory Analytical Instruments
+BRO,Brown & Brown,NYSE,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service"
+BROS,Dutch Bros Inc Cl A,NYSE,Retail - Restaurants,SIC-5810 Retail-Eating & Drinking Places
+BRX,Brixmor Property Group Inc,NYSE,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts
+BSX,Boston Scientific Corp,NYSE,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus
+BSY,Bentley Systems Inc Cl B,NASDAQ,Internet - Software,SIC-7372 Services-Prepackaged Software
+BURL,Burlington Stores Inc,NYSE,Retail - Discount,SIC-5311 Retail-Department Stores
+BWA,Borgwarner Inc,NYSE,Auto - Truck Original Parts,SIC-3714 Motor Vehicle Parts & Accessories
+BWXT,Bwx Technologies Inc,NYSE,Electronics - Misc Components,SIC-3510 Engines & Turbines
+BX,Blackstone Inc,NYSE,Finance - Misc Services,SIC-6282 Investment Advice
+BXP,Bxp Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+BYD,Boyd Gaming Corp,NYSE,Gaming,SIC-7011 Hotels & Motels
+C,Citigroup Inc,NYSE,Banks - Major Regional,SIC-6021 National Commercial Banks
+CACC,Credit Acceptance,NASDAQ,Finance - Consumer Loans,SIC-6141 Personal Credit Institutions
+CACI,Caci International,NYSE,Computer - Services,SIC-7373 Services-Computer Integrated Systems Design
+CAG,Conagra Brands Inc,NYSE,Food - Misc & Diversified,SIC-2000 Food and Kindred Products
+CAH,Cardinal Health,NYSE,Medical - Dental Suppliers,"SIC-5122 Wholesale-Drugs, Proprietaries & Druggists"
+CAR,Avis Budget Group,NASDAQ,Transportation - Services,SIC-7510 Services-Auto Rental & Leasing (No Drivers)
+CARR,Carrier Global Corp,NYSE,Electronics Products - Misc,SIC-3585 Air-Cond & Warm Air Heatg Equip & Comm & Ind
+CART,Maplebear Inc [Instacart],NASDAQ,Technology Services,"SIC-7389 Services-Business Services, NEC"
+CASY,Casey's General Stor,NASDAQ,Retail - Convenience Stores,SIC-5500 Retail-Auto Dealers & Gasoline Stations
+CAT,Caterpillar Inc,NYSE,Machinery - Construct & Mining,SIC-3531 Construction Machinery & Equip
+CAVA,Cava Group Inc,NYSE,Retail - Restaurants,SIC-5812 Retail-Eating Places
+CB,Chubb Ltd,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+CBOE,CBOE Global Markets Inc,NYSE Arca,Securities Exchanges,"SIC-6200 Security & Commodity Brokers, Dealers, Excha"
+CBRE,CBRE Group Inc,NYSE,Real Estate Operations,SIC-6500 Real Estate
+CBSH,Commerce Bancshares,NASDAQ,Banks - Midwest,SIC-6022 State Commercial Banks
+CC,Chemours Company,NYSE,Chemical - Diversified,SIC-2800 Chemicals & Allied Products
+CCCS,CCC Intelligent Solutions Hldgs Inc,NASDAQ,Insurance - Proprty & Casualty,SIC-7372 Services-Prepackaged Software
+CCI,Crown Castle Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+CCK,Crown Cork & Seal Company,NYSE,Containers - Metal & Glass,SIC-3411 Metal Cans
+CCL,Carnival Corp,NYSE,Leisure & Recreation Services,SIC-4400 Water Transportation
+CDNS,Cadence Design Sys,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+CDW,CDW Corp,NASDAQ,IT Services,SIC-5961 Retail-Catalog & Mail-Order Houses
+CE,Celanese Corp,NYSE,Chemical - Specialty,"SIC-2820 Plastic Material, Synth Resin/Rubber, Cellul"
+CEG,Constellation Energy Corp,NASDAQ,Other Alt Energy,SIC-4911 Electric Services
+CELH,Celsius Holdings Inc,NASDAQ,Food - Misc & Diversified,SIC-2086 Bottled & Canned Soft Drinks & Carbonated Wa
+CERT,Certara Inc,NASDAQ,Medical - Biomedical,SIC-7372 Services-Prepackaged Software
+CF,Cf Industries Holdings,NYSE,Fertilizers,SIC-2870 Agricultural Chemicals
+CFG,Citizens Financial Group Inc/Ri,NYSE,Finance - Savings & Loan,SIC-6022 State Commercial Banks
+CFLT,Confluent Inc Cl A,NASDAQ,Technology Services,SIC-7372 Services-Prepackaged Software
+CFR,Cullen/Frost Bankers,NYSE,Banks - Southwest,SIC-6021 National Commercial Banks
+CG,The Carlyle Group,NASDAQ,Finance - Investment Funds,SIC-6282 Investment Advice
+CGNX,Cognex Corp,NASDAQ,Electronic Test Equipment,"SIC-3823 Industrial Instruments For Measurement, Disp"
+CHD,Church & Dwight Company,NYSE,Soap and Cleaning Products,"SIC-2840 Soap, Detergents, Cleaning Preparations, Per"
+CHDN,Churchill Downs IN,NASDAQ,Gaming,"SIC-7948 Services-Racing, Including Track Operation"
+CHE,Chemed Inc,NYSE,Medical - Outpatient & Hm Care,SIC-8082 Services-Home Health Care Services
+CHH,Choice Hotels International,NYSE,Hotels & Motels,SIC-7011 Hotels & Motels
+CHK,Chesapeake Energy Corp,NASDAQ,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+CHRD,Chord Energy Corp,NASDAQ,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+CHRW,C.H. Robinson Ww,NASDAQ,Transportation - Services,SIC-4731 Arrangement of Transportation of Freight & C
+CHTR,Charter Communications Inc,NASDAQ,Cable TV,SIC-4841 Cable & Other Pay Television Services
+CI,The Cigna Group,NYSE,Medical - HMO,SIC-6324 Hospital & Medical Service Plans
+CIEN,Ciena Corp,NYSE,Fiber Optics,SIC-3661 Telephone & Telegraph Apparatus
+CINF,Cincinnati Financial,NASDAQ,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+CIVI,Civitas Resources Inc,NYSE,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+CL,Colgate-Palmolive Company,NYSE,Soap and Cleaning Products,"SIC-2844 Perfumes, Cosmetics & Other Toilet Preparati"
+CLF,Cleveland-Cliffs Inc,NYSE,Mining - Misc,SIC-1000 Metal Mining
+CLH,Clean Harbors,NYSE,Waste Removal Svcs,SIC-4955 Hazardous Waste Management
+CLVT,Clarivate Analytics Plc,NYSE,Internet - Software,SIC-7374 Services-Computer Processing & Data Preparat
+CLX,Clorox Company,NYSE,Soap and Cleaning Products,"SIC-2842 Specialty Cleaning, Polishing and Sanitation"
+CMA,Comerica Inc,NYSE,Banks - Major Regional,SIC-6021 National Commercial Banks
+CMCSA,Comcast Corp A,NASDAQ,Cable TV,SIC-4841 Cable & Other Pay Television Services
+CME,CME Group Inc,NASDAQ,Securities Exchanges,"SIC-6200 Security & Commodity Brokers, Dealers, Excha"
+CMG,Chipotle Mexican Grill,NYSE,Retail - Restaurants,SIC-5812 Retail-Eating Places
+CMI,Cummins Inc,NYSE,Engines - Internal Combustion,SIC-3510 Engines & Turbines
+CMS,Cms Energy Corp,NYSE,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+CNA,CNA Financial Corp,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+CNC,Centene Corp,NYSE,Medical - HMO,SIC-6324 Hospital & Medical Service Plans
+CNH,CNH Industrial N.V.,NYSE,Machinery - Farm,SIC-3531 Construction Machinery & Equip
+CNM,Core & Main Inc Cl A,NYSE,Waste Removal Svcs,"SIC-5099 Wholesale-Durable Goods, NEC"
+CNP,Centerpoint Energy Inc,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+CNXC,Concentrix Corp,NASDAQ,Business Services,"SIC-7389 Services-Business Services, NEC"
+COF,Capital One Financial Corp,NYSE,Finance - Consumer Loans,SIC-6021 National Commercial Banks
+COHR,Coherent Corp,NYSE,Technology Services,SIC-3827 Optical Instruments & Lenses
+COIN,Coinbase Global Inc Cl A,NASDAQ,Financial Transaction Services,SIC-6199 Finance Services
+COKE,Coca-Cola Consolidated Inc,NASDAQ,Beverages - Soft,SIC-2086 Bottled & Canned Soft Drinks & Carbonated Wa
+COLB,Columbia Banking Sys,NASDAQ,Banks - West,SIC-6022 State Commercial Banks
+COLD,Americold Realty Trust,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+COLM,Columbia Sprtswr,NASDAQ,Textile - Apparel,SIC-2300 Apparel & Other Finished Prods of Fabrics &
+COO,Cooper Companies,NASDAQ,Medical - Dental Suppliers,SIC-3851 Ophthalmic Goods
+COP,Conocophillips,NYSE,Oil - US Integrated,SIC-2911 Petroleum Refining
+COR,Cencora Inc,NYSE,Medical Services,"SIC-5122 Wholesale-Drugs, Proprietaries & Druggists"
+COST,Costco Wholesale,NASDAQ,Retail - Discount,SIC-5331 Retail-Variety Stores
+COTY,Coty Inc,NYSE,Cosmetics & Toiletries,"SIC-2844 Perfumes, Cosmetics & Other Toilet Preparati"
+CPAY,Corpay Inc,NYSE,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC"
+CPB,Campbell Soup Company,NASDAQ,Food - Misc & Diversified,SIC-2000 Food and Kindred Products
+CPNG,Coupang Inc Cl A,NYSE,Internet Commerce,SIC-5961 Retail-Catalog & Mail-Order Houses
+CPRI,Capri Holdings Ltd,NYSE,Retail - Apparel & Shoes,SIC-3100 Leather & Leather Products
+CPRT,Copart Inc,NASDAQ,Auction Valuation Services,SIC-5500 Retail-Auto Dealers & Gasoline Stations
+CPT,Camden Property Trust,NYSE,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts
+CR,Crane Company,NYSE,Machinery - General Industrial,SIC-1311 Crude Petroleum & Natural Gas
+CRH,CRH Plc ADR,NYSE,Building & Construction - Misc,"SIC-3241 Cement, Hydraulic"
+CRI,Carter's Inc,NYSE,Shoes and Related Apparel,SIC-2300 Apparel & Other Finished Prods of Fabrics &
+CRL,Charles River Laboratories Intl,NYSE,Medical Services,SIC-8731 Services-Commercial Physical & Biological Re
+CRM,Salesforce Inc,NYSE,Computer - Software,SIC-7372 Services-Prepackaged Software
+CROX,Crocs Inc,NASDAQ,Textile - Apparel,SIC-3021 Rubber & Plastics Footwear
+CRUS,Cirrus Logic Inc,NASDAQ,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices
+CRWD,Crowdstrike Holdings Inc,NASDAQ,Internet - Software,SIC-7372 Services-Prepackaged Software
+CSCO,Cisco Systems Inc,NASDAQ,Computer - Networks,SIC-3576 Computer Communications Equipment
+CSGP,Costar Group Inc,NASDAQ,IT Services,"SIC-7389 Services-Business Services, NEC"
+CSL,Carlisle Companies Inc,NYSE,Conglomerates - Div Operations,"SIC-3060 Fabricated Rubber Products, NEC"
+CSX,CSX Corp,NASDAQ,Transportation - Rail,"SIC-4011 Railroads, Line-Haul Operating"
+CTAS,Cintas Corp,NASDAQ,Uniform & Related,"SIC-2320 Mens & Boys Furnishings, Work Clothg, & Alli"
+CTLT,Catalent Inc,NYSE,Medical - Drugs,SIC-2834 Pharmaceutical Preparations
+CTRA,Coterra Energy Inc,NYSE,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+CTSH,Cognizant Tech Sol,NASDAQ,Business Software Services,SIC-7371 Services-Computer Programming Services
+CTVA,Corteva Inc,NYSE,Agriculture Operations,SIC-0100 Agricultural Production - Crops
+CUBE,Cubesmart,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+CUZ,Cousins Properties Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+CVNA,Carvana Company Cl A,NYSE,Internet Commerce,SIC-5500 Retail-Auto Dealers & Gasoline Stations
+CVS,CVS Corp,NYSE,Retail - Drug Stores,SIC-5912 Retail-Drug Stores and Proprietary Stores
+CVX,Chevron Corp,NYSE,Oil - International Integrated,SIC-2911 Petroleum Refining
+CW,Curtiss-Wright Corp,NYSE,Aerospace - Defense Equipment,SIC-3590 Misc Industrial & Commercial Machinery & Equ
+CWEN-A,Clearway Energy Inc [Cwen.A],NYSE,N/A,
+CWEN,Clearway Energy Inc Cl C,NYSE,Other Alt Energy,SIC-4911 Electric Services
+CXT,Crane Nxt CO,NYSE,Technology Services,SIC-3490 Miscellaneous Fabricated Metal Products
+CZR,Caesars Entertainment Inc,NASDAQ,Leisure & Recreation Services,SIC-7011 Hotels & Motels
+D,Dominion Energy Inc,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+DAL,Delta Air Lines Inc,NYSE,Transportation - Airline,"SIC-4512 Air Transportation, Scheduled"
+DAR,Darling International Inc,NYSE,Food - Misc & Diversified,SIC-2070 Fats & Oils
+DASH,Doordash Inc Cl A,NASDAQ,Internet - Services,"SIC-7389 Services-Business Services, NEC"
+DAY,Dayforce Inc,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+DBX,Dropbox Inc,NASDAQ,Internet - Services,SIC-7372 Services-Prepackaged Software
+DCI,Donaldson Company,NYSE,Pollution Controls,SIC-3564 Industrial & Commercial Fans & Blowers & Air
+DD,Dupont Denemours Inc,NYSE,Chemical - Diversified,"SIC-2821 Plastic Materials, Synth Resins & Nonvulcan"
+DDOG,Datadog Inc Cl A,NASDAQ,Internet - Software,SIC-7372 Services-Prepackaged Software
+DDS,Dillard's,NYSE,Retail - Regional Dept Stores,SIC-5311 Retail-Department Stores
+DE,Deere & Company,NYSE,Machinery - Farm,SIC-3523 Farm Machinery & Equipment
+DECK,Deckers Outdoor Corp,NYSE,Retail - Apparel & Shoes,SIC-3021 Rubber & Plastics Footwear
+DELL,Dell Technologies Inc,NYSE,Computer - Micro,SIC-3571 Electronic Computers
+DFS,Discover Financial Services,NYSE,Finance - Consumer Loans,SIC-6141 Personal Credit Institutions
+DG,Dollar General Corp,NYSE,Retail - Discount,SIC-5331 Retail-Variety Stores
+DGX,Quest Diagnostics Inc,NYSE,Medical - Outpatient & Hm Care,SIC-8071 Services-Medical Laboratories
+DHI,D.R. Horton,NYSE,Building - Residential & Comm,SIC-1531 Operative Builders
+DHR,Danaher Corp,NYSE,Conglomerates - Div Operations,"SIC-3823 Industrial Instruments For Measurement, Disp"
+DINO,HF Sinclair Corp,NYSE,Other Alt Energy,SIC-4610 Pipe Lines (No Natural Gas)
+DIS,Walt Disney Company,NYSE,Media Conglomerates,SIC-7990 Services-Miscellaneous Amusement & Recreatio
+DJT,Trump Media & Technology Group Corp,NASDAQ,Internet - Software,"SIC-7370 Services-Computer Programming, Data Processi"
+DKNG,Draftkings Inc,NASDAQ,Gaming,SIC-7990 Services-Miscellaneous Amusement & Recreatio
+DKS,Dick's Sporting Goods Inc,NYSE,Retail - Misc & Diversified,SIC-5940 Retail-Miscellaneous Shopping Goods Stores
+DLB,Dolby Laboratories,NYSE,Audio & Video Products,SIC-6794 Patent Owners & Lessors
+DLR,Digital Realty Trust,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+DLTR,Dollar Tree Inc,NASDAQ,Retail - Discount,SIC-5331 Retail-Variety Stores
+DNB,Dun & Bradstreet Holdings Inc,NYSE,Business Information,"SIC-7320 Services-Consumer Credit Reporting, Collecti"
+DOC,Healthpeak Properties Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+DOCS,Doximity Inc Cl A,NYSE,Medical Services,SIC-7371 Services-Computer Programming Services
+DOCU,Docusign Inc,NASDAQ,Technology Services,SIC-7372 Services-Prepackaged Software
+DOV,Dover Corp,NYSE,Machinery - General Industrial,"SIC-3530 Construction, Mining & Materials Handling Ma"
+DOW,Dow Inc,NYSE,Chemical - Diversified,"SIC-2821 Plastic Materials, Synth Resins & Nonvulcan"
+DOX,Amdocs Ltd Ord,NASDAQ,IT Services,SIC-7371 Services-Computer Programming Services
+DPZ,Domino's Pizza Inc,NYSE,Retail - Restaurants,SIC-5140 Wholesale-Groceries & Related Products
+DRI,Darden Restaurants,NYSE,Retail - Restaurants,SIC-5812 Retail-Eating Places
+DT,Dynatrace Inc,NYSE,IT Services,SIC-7372 Services-Prepackaged Software
+DTE,Dte Energy Company,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+DTM,Dt Midstream Inc,NYSE,Oil - US Integrated,SIC-4922 Natural Gas Transmission
+DUK,Duke Energy Corp,NYSE,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+DUOL,Duolingo Inc Cl A,NASDAQ,Technology Services,SIC-7372 Services-Prepackaged Software
+DV,Doubleverify Holdings Inc,NYSE,Internet - Software,"SIC-7370 Services-Computer Programming, Data Processi"
+DVA,Davita Healthcare Partners Inc,NYSE,Medical - Outpatient & Hm Care,"SIC-8090 Services-Misc Health & Allied Services, NEC"
+DVN,Devon Energy Corp,NYSE,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+DXC,Dxc Technology Company,NYSE,IT Services,SIC-7374 Services-Computer Processing & Data Preparat
+DXCM,Dexcom Inc,NASDAQ,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus
+EA,Electronic Arts Inc,NASDAQ,Gaming,SIC-7372 Services-Prepackaged Software
+EBAY,Ebay Inc,NASDAQ,Internet Commerce,"SIC-7389 Services-Business Services, NEC"
+ECL,Ecolab Inc,NYSE,Chemical - Specialty,"SIC-2840 Soap, Detergents, Cleaning Preparations, Per"
+ED,Consolidated Edison Company,NYSE,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+EEFT,Euronet Worldwide,NASDAQ,Finance - Misc Services,"SIC-6099 Functions Related To Depository Banking, NEC"
+EFX,Equifax Inc,NYSE,Financial Transaction Services,"SIC-1389 Oil & Gas Field Services, NEC"
+EG,Everest Re Group,NYSE,Insurance - Multi Line,"SIC-6331 Fire, Marine & Casualty Insurance"
+EGP,Eastgroup Properties,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+EHC,Encompass Health Corp,NYSE,Medical - Outpatient & Hm Care,SIC-8060 Services-Hospitals
+EIX,Edison International,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+EL,Estee Lauder Companies,NYSE,Cosmetics & Toiletries,"SIC-2844 Perfumes, Cosmetics & Other Toilet Preparati"
+ELAN,Elanco Animal Health Inc,NYSE,Medical - Outpatient & Hm Care,SIC-2834 Pharmaceutical Preparations
+ELF,E.L.F. Beauty Inc,NYSE,Cosmetics & Toiletries,"SIC-2844 Perfumes, Cosmetics & Other Toilet Preparati"
+ELS,Equity Lifestyle Properties,NYSE,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts
+ELV,Elevance Health Inc,NYSE,Medical Services,SIC-6324 Hospital & Medical Service Plans
+EME,Emcor Group,NYSE,Building - Heavy Construction,SIC-1731 Electrical Work
+EMN,Eastman Chemical Company,NYSE,Chemical - Diversified,"SIC-2821 Plastic Materials, Synth Resins & Nonvulcan"
+EMR,Emerson Electric Company,NYSE,Machinery - Electrical,SIC-3600 Electronic & Other Electrical Equipment (No
+ENOV,Enovis Corp,NYSE,Medical Information Systems,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances"
+ENPH,Enphase Energy Inc,NASDAQ,Solar,SIC-3674 Semiconductors & Related Devices
+ENTG,Entegris Inc,NASDAQ,Electrical - Manufacturing,"SIC-3089 Plastics Products, NEC"
+EOG,Eog Resources,NYSE,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+EPAM,Epam Systems Inc,NYSE,IT Services,SIC-7371 Services-Computer Programming Services
+EPR,Entertainment Properties Trust,NYSE,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts
+EQH,Axa Equitable Holdings Inc,NYSE,Finance - Misc Services,"SIC-6411 Insurance Agents, Brokers & Service"
+EQIX,Equinix Inc,NASDAQ,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts
+EQR,Equity Residential,NYSE,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts
+EQT,Eqt Corp,NYSE,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+ES,Eversource Energy,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+ESAB,Esab Corp,NYSE,Metal Production & Fabrication,"SIC-3569 General Industrial Machinery & Equipment, NE"
+ESI,Element Solutions Inc,NYSE,Chemical - Specialty,SIC-1381 Drilling Oil & Gas Wells
+ESS,Essex Property Trust,NYSE,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts
+ESTC,Elastic N.V.,NYSE,Technology Services,SIC-7372 Services-Prepackaged Software
+ETN,Eaton Corp,NYSE,Machinery - Electrical,SIC-3590 Misc Industrial & Commercial Machinery & Equ
+ETR,Entergy Corp,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+ETSY,Etsy Inc,NASDAQ,Internet Commerce,"SIC-7389 Services-Business Services, NEC"
+EVR,Evercore Partners Inc,NYSE,Finance - Investment Brokers,SIC-6282 Investment Advice
+EVRG,Evergy Inc,NASDAQ,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+EW,Edwards Lifesciences Corp,NYSE,Medical Instruments,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances"
+EWBC,East West Bancorp,NASDAQ,Banks - West,SIC-6022 State Commercial Banks
+EXAS,Exact Sciences Cor,NASDAQ,Medical - Biomedical,SIC-8071 Services-Medical Laboratories
+EXC,Exelon Corp,NASDAQ,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+EXEL,Exelixis Inc,NASDAQ,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc"
+EXP,Eagle Materials Inc,NYSE,Building - CMT & CNT & AG,"SIC-3241 Cement, Hydraulic"
+EXPD,Expeditors Intl,NYSE,Transportation - Services,SIC-4731 Arrangement of Transportation of Freight & C
+EXPE,Expedia Group Inc,NASDAQ,Internet Commerce,SIC-4700 Transportation Services
+EXR,Extra Space Storage Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+F,Ford Motor Company,NYSE,Auto - Domestic,SIC-3711 Motor Vehicles & Passenger Car Bodies
+FAF,First American Corp,NYSE,Insurance - Proprty & Casualty,SIC-6361 Title Insurance
+FANG,Diamondback Energy,NASDAQ,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+FAST,Fastenal Company,NASDAQ,Building Prds Retail - Wsale,"SIC-5200 Retail-Building Materials, Hardware, Garden"
+FBIN,Fortune Brands Innovations Inc,NYSE,Retail - Home Furniture,"SIC-2430 Millwood, Veneer, Plywood, & Structural Wood"
+FCN,Fti Consulting,NYSE,Consulting,SIC-8742 Services-Management Consulting Services
+FCNCA,First Citizens Bancs,NASDAQ,Banks - Southeast,SIC-6022 State Commercial Banks
+FCX,Freeport-Mcmoran Inc,NYSE,Mining - Non Ferrous,SIC-1000 Metal Mining
+FDS,Factset Research Systems Inc,NYSE,Business Information,"SIC-7370 Services-Computer Programming, Data Processi"
+FDX,Fedex Corp,NYSE,Transportation - Air Freight,SIC-4513 Air Courier Services
+FE,Firstenergy Corp,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+FERG,Ferguson Enterprises Inc,NYSE,Machinery - General Industrial,SIC-5070 Wholesale-Hardware & Plumbing & Heating Equi
+FFIV,F5 Inc,NASDAQ,Internet - Software,SIC-3576 Computer Communications Equipment
+FHB,First Hawaiian Inc,NASDAQ,Banks - West,SIC-6022 State Commercial Banks
+FHN,First Horizon Corp,NYSE,Banks - Southwest,SIC-6021 National Commercial Banks
+FI,Fiserv Inc,NYSE,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC"
+FICO,Fair Isaac and Company,NYSE,IT Services,"SIC-7389 Services-Business Services, NEC"
+FIS,Fidelity National Information Services,NYSE,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC"
+FITB,Fifth Third Bancorp,NASDAQ,Banks - Major Regional,SIC-6022 State Commercial Banks
+FIVE,Five Below Inc,NASDAQ,Retail - Misc & Diversified,SIC-5331 Retail-Variety Stores
+FIVN,Five9 Inc,NASDAQ,Internet - Software,SIC-7374 Services-Computer Processing & Data Preparat
+FIX,Comfort Systems USA,NYSE,Building Prdcts - Air Heating,SIC-1731 Electrical Work
+FLO,Flowers Foods,NYSE,Food - Misc & Diversified,SIC-2000 Food and Kindred Products
+FLS,Flowserve Corp,NYSE,Machinery - General Industrial,SIC-3561 Pumps & Pumping Equipment
+FMC,FMC Corp,NYSE,Chemical - Diversified,SIC-2800 Chemicals & Allied Products
+FNB,F.N.B. Corp,NYSE,Banks - Southeast,SIC-6021 National Commercial Banks
+FND,Floor & Decor Holdings Inc,NYSE,Retail - Apparel & Shoes,SIC-5211 Retail-Lumber & Other Building Materials Dea
+FNF,Fidelity National Financial,NYSE,Insurance - Proprty & Casualty,SIC-6361 Title Insurance
+FOUR,Shift4 Payments Inc,NYSE,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC"
+FOX,Fox Corp Cl B,NASDAQ,Broadcast - Radio & TV,SIC-4833 Television Broadcasting Stations
+FOXA,Fox Corp Cl A,NASDAQ,Broadcast - Radio & TV,SIC-4833 Television Broadcasting Stations
+FR,First Industrial Realty Trust,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+FRPT,Freshpet Inc CS,NASDAQ,Food - Misc & Diversified,SIC-2040 Grain Mill Products
+FRT,Federal Realty Investment Trust,NYSE,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts
+FSLR,First Solar Inc,NASDAQ,Solar,SIC-3674 Semiconductors & Related Devices
+FTI,Technipfmc Plc,NYSE,Oil - Field Services,SIC-3533 Oil & Gas Field Machinery & Equipment
+FTNT,Fortinet Inc,NASDAQ,Internet - Software,"SIC-3577 Computer Peripheral Equipment, NEC"
+FTRE,Fortrea Holdings Inc,NASDAQ,Medical - Biomedical,SIC-8071 Services-Medical Laboratories
+FTV,Fortive Corp,NYSE,Electronic Test Equipment,"SIC-3823 Industrial Instruments For Measurement, Disp"
+FWONA,Liberty Media Formula One Sr A,NASDAQ,Media Conglomerates,
+FWONK,Liberty Media Formula One Sr C,NASDAQ,Media Conglomerates,
+FYBR,Frontier Communications Parent Inc,NASDAQ,Communication Network Software,SIC-4813 Telephone Communications (No Radiotelephone)
+G,Genpact Ltd,NYSE,Outsourcing,SIC-8742 Services-Management Consulting Services
+GAP,Gap Inc,NYSE,Retail - Apparel & Shoes,SIC-5651 Retail-Family Clothing Stores
+GD,General Dynamics Corp,NYSE,Aerospace - Defense,SIC-3730 Ship & Boat Building & Repairing
+GDDY,Godaddy Inc,NYSE,Internet Services - Delivery,SIC-7373 Services-Computer Integrated Systems Design
+GE,GE Aerospace,NYSE,Transportation - Airline,SIC-3600 Electronic & Other Electrical Equipment (No
+GEHC,GE Healthcare Technologies Inc,NASDAQ,Medical Information Systems,SIC-3844 X-Ray Apparatus & Tubes & Related Irradiatio
+GEN,Gen Digital Inc,NASDAQ,Technology Services,SIC-7372 Services-Prepackaged Software
+GEV,GE Vernova Inc,NYSE,Other Alt Energy,SIC-3600 Electronic & Other Electrical Equipment (No
+GFS,Globalfoundries Inc,NASDAQ,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices
+GGG,Graco Inc,NYSE,Machinery - General Industrial,SIC-3561 Pumps & Pumping Equipment
+GILD,Gilead Sciences Inc,NASDAQ,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc"
+GIS,General Mills,NYSE,Food - Misc & Diversified,SIC-2040 Grain Mill Products
+GL,Globe Life Inc,NYSE,Finance - Misc Services,SIC-6311 Life Insurance
+GLOB,Globant S.A.,NYSE,Internet Software Services,SIC-7374 Services-Computer Processing & Data Preparat
+GLPI,Gaming & Leisure,NASDAQ,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+GLW,Corning Inc,NYSE,Communications Components,SIC-3357 Drawing & Insulating of Nonferrous Wire
+GM,General Motors Company,NYSE,Auto - Domestic,SIC-3711 Motor Vehicles & Passenger Car Bodies
+GME,Gamestop Corp,NYSE,Gaming,SIC-5734 Retail-Computer & Computer Software Stores
+GMED,Globus Medical Inc,NYSE,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus
+GNRC,Generac Holdings Inc,NYSE,Electrical Power,SIC-3621 Motors & Generators
+GNTX,Gentex Corp,NASDAQ,Auto - Truck Original Parts,SIC-3714 Motor Vehicle Parts & Accessories
+GO,Grocery Outlet Holding Corp,NASDAQ,Consumer Prdts - Misc Staple,SIC-5411 Retail-Grocery Stores
+GOOG,Alphabet Cl C,NASDAQ,Internet - Services,"SIC-7370 Services-Computer Programming, Data Processi"
+GOOGL,Alphabet Cl A,NASDAQ,Internet - Services,"SIC-7370 Services-Computer Programming, Data Processi"
+GPC,Genuine Parts Company,NYSE,Retail - Wholesale Auto Parts,SIC-5013 Wholesale-Motor Vehicle Supplies & New Parts
+GPK,Graphic Packaging Holding Company,NYSE,Containers - Paper Products,SIC-2650 Paperboard Containers & Boxes
+GPN,Global Payments Inc,NYSE,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC"
+GRAL,Grail Inc,NASDAQ,Medical - Biomedical,SIC-8071 Services-Medical Laboratories
+GRMN,Garmin Ltd,NYSE,Electronics Products - Misc,"SIC-3812 Search, Detection, Navigation, Guidance, Aer"
+GS,Goldman Sachs Group,NYSE,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+GTES,Gates Industrial Corp Plc,NYSE,Engineering & R&D Services,SIC-3560 General Industrial Machinery & Equipment
+GTLB,Gitlab Inc Cl A,NASDAQ,Internet - Software,SIC-7372 Services-Prepackaged Software
+GWRE,Guidewire Software Inc,NYSE,Business Software Services,SIC-7372 Services-Prepackaged Software
+GWW,W.W. Grainger,NYSE,Industrial Services,SIC-5000 Wholesale-Durable Goods
+GXO,Gxo Logistics Inc,NYSE,Transportation - Air Freight,SIC-4700 Transportation Services
+H,Hyatt Hotels Corp,NYSE,Hotels & Motels,SIC-4931 Electric & Other Services Combined
+HAL,Halliburton Company,NYSE,Oil - Field Services,"SIC-1389 Oil & Gas Field Services, NEC"
+HAS,Hasbro Inc,NASDAQ,Toys & Game & Hobby,"SIC-3944 Games, Toys & Childrens Vehicles (No Dolls)"
+HAYW,Hayward Holdings Inc,NYSE,Electronics Products - Misc,SIC-3580 Refrigeration & Service Industry Machinery
+HBAN,Huntington Bancshares Inc,NASDAQ,Banks - Midwest,SIC-6021 National Commercial Banks
+HCA,Hca Holdings Inc,NYSE,Medical - Hospitals,SIC-8062 Services-General Medical & Surgical Hospital
+HCP,Hashicorp Inc Cl A,NASDAQ,Internet - Software,SIC-7371 Services-Computer Programming Services
+HD,Home Depot,NYSE,Building Prds Retail - Wsale,SIC-5211 Retail-Lumber & Other Building Materials Dea
+HEI,Heico Corp,NYSE,Aerospace - Defense Equipment,SIC-3724 Aircraft Engines & Engine Parts
+HEI-A,Heico Corp Cl A,NYSE,Aerospace - Defense Equipment,SIC-3724 Aircraft Engines & Engine Parts
+HES,Hess Corp,NYSE,Oil - US Integrated,SIC-2911 Petroleum Refining
+HHH,Howard Hughes Holdings Inc,NYSE,Real Estate Developers,SIC-6798 Real Estate Investment Trusts
+HIG,Hartford Financial Services Group,NYSE,Insurance - Multi Line,"SIC-6331 Fire, Marine & Casualty Insurance"
+HII,Huntington Ingalls Industries,NYSE,Aerospace - Defense,SIC-3730 Ship & Boat Building & Repairing
+HIW,Highwoods Properties,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+HLI,Houlihan Lokey,NYSE,Finance - Misc Services,SIC-6282 Investment Advice
+HLT,Hilton Inc,NYSE,Hotels & Motels,SIC-7011 Hotels & Motels
+HOG,Harley-Davidson Inc,NYSE,Auto - Domestic,"SIC-3751 Motorcycles, Bicycles & Parts"
+HOLX,Hologic Inc,NASDAQ,Medical Instruments,SIC-3844 X-Ray Apparatus & Tubes & Related Irradiatio
+HON,Honeywell International Inc,NASDAQ,Conglomerates - Div Operations,SIC-3724 Aircraft Engines & Engine Parts
+HOOD,Robinhood Markets Inc Cl A,NASDAQ,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+HPE,Hewlett Packard Enterprise Comp,NYSE,Computer - Integrated Systems,SIC-3570 Computer & Office Equipment
+HPQ,HP Inc,NYSE,Computer - Micro,SIC-3570 Computer & Office Equipment
+HR,Healthcare Realty Trust Inc.,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+HRB,H&R Block,NYSE,Consumer Services - Misc,SIC-7200 Services-Personal Services
+HRL,Hormel Foods Corp,NYSE,Food - Meat Products,SIC-2011 Meat Packing Plants
+HSIC,Henry Schein Inc,NASDAQ,Medical - Dental Suppliers,"SIC-5047 Wholesale-Medical, Dental & Hospital Equipme"
+HST,Host Marriott Financial Trust,NASDAQ,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+HSY,Hershey Foods Corp,NYSE,Food - Confectionery,SIC-2060 Sugar & Confectionery Products
+HUBB,Hubbell Inc B,NYSE,Machinery - Elect Utilities,SIC-3670 Electronic Components & Accessories
+HUBS,Hubspot Inc,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+HUM,Humana Inc,NYSE,Medical - HMO,SIC-6324 Hospital & Medical Service Plans
+HUN,Huntsman Corp,NYSE,Chemical - Diversified,SIC-2800 Chemicals & Allied Products
+HWM,Howmet Aerospace Inc,NYSE,Engineering & R&D Services,SIC-3350 Rolling Drawing & Extruding of Nonferrous Me
+HXL,Hexcel Corp,NYSE,Aerospace - Defense Equipment,"SIC-2821 Plastic Materials, Synth Resins & Nonvulcan"
+IAC,Iac Inc,NASDAQ,Conglomerates - Div Operations,"SIC-7370 Services-Computer Programming, Data Processi"
+IBKR,Interactive Brokers,NASDAQ,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+IBM,International Business Machines,NYSE,Computer - Integrated Systems,SIC-3570 Computer & Office Equipment
+ICE,Intercontinental Exchange,NYSE,Securities Exchanges,"SIC-6200 Security & Commodity Brokers, Dealers, Excha"
+IDA,Idacorp Inc,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+IDXX,Idexx Laboratories,NASDAQ,Medical Instruments,SIC-2835 In Vitro & In Vivo Diagnostic Substances
+IEX,Idex Corp,NYSE,Machinery - General Industrial,SIC-3561 Pumps & Pumping Equipment
+IFF,International Flavors & Fragrances,NYSE,Consumer Prdts - Misc Staple,SIC-2860 Industrial Organic Chemicals
+ILMN,Illumina Inc,NASDAQ,Medical - Biomedical,SIC-3826 Laboratory Analytical Instruments
+INCY,Incyte Corp,NASDAQ,Medical - Biomedical,SIC-8731 Services-Commercial Physical & Biological Re
+INFA,Informatica Inc Cl A,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+INGR,Ingredion Inc,NYSE,Food - Misc & Diversified,SIC-2040 Grain Mill Products
+INSP,Inspire Medical Systems Inc,NYSE,Medical Information Systems,SIC-3841 Surgical & Medical Instruments & Apparatus
+INTC,Intel Corp,NASDAQ,Semi General,SIC-3674 Semiconductors & Related Devices
+INTU,Intuit Inc,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+INVH,Invitation Homes Inc,NYSE,REIT - Equity Trust Resident,SIC-6510 Real Estate Operators (No Developers) & Less
+IONS,Ionis Pharmaceuticals,NASDAQ,Medical - Drugs,SIC-2834 Pharmaceutical Preparations
+IP,International Paper Company,NYSE,Paper & Related Products,SIC-2621 Paper Mills
+IPG,Interpublic Group of Companies,NYSE,Advertising Marketing Services,SIC-7311 Services-Advertising Agencies
+IPGP,Ipg Photonics Corp,NASDAQ,Lasers - Systems & Components,SIC-3674 Semiconductors & Related Devices
+IQV,Iqvia Holdings Inc,NYSE,Medical Instruments,SIC-8731 Services-Commercial Physical & Biological Re
+IR,Ingersoll Rand Inc,NYSE,Machinery - General Industrial,SIC-3560 General Industrial Machinery & Equipment
+IRDM,Iridium Comm Inc,NASDAQ,Satellite Communication,"SIC-3669 Communications Equipment, NEC"
+IRM,Iron Mountain Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+ISRG,Intuitive Surg Inc,NASDAQ,Medical Instruments,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances"
+IT,Gartner Inc,NYSE,Consulting,SIC-8741 Services-Management Services
+ITCI,Intra-Cellular Ther,NASDAQ,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+ITT,ITT Inc,NYSE,Conglomerates - Div Operations,SIC-3561 Pumps & Pumping Equipment
+ITW,Illinois Tool Works Inc,NYSE,Machinery - General Industrial,SIC-3560 General Industrial Machinery & Equipment
+IVZ,Invesco Plc,NYSE,Finance - Investment Mgmt,SIC-6282 Investment Advice
+J,Jacobs Engineering Group Inc,NYSE,Technology Services,SIC-1600 Heavy Construction Other Than Bldg Const - C
+JAZZ,Jazz Pharma Plc,NASDAQ,Medical - Drugs,SIC-2834 Pharmaceutical Preparations
+JBHT,J B Hunt Transport,NASDAQ,Transportation - Truck,SIC-4213 Trucking (No Local)
+JBL,Jabil Circuit,NYSE,Electronic Manufacturing,SIC-3672 Printed Circuit Boards
+JCI,Johnson Controls Intl,NYSE,Protection - Safety,SIC-3585 Air-Cond & Warm Air Heatg Equip & Comm & Ind
+JEF,Jefferies Financial Group Inc,NYSE,Finance - Misc Services,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+JHG,Janus Henderson Group Plc,NYSE,Finance - Investment Mgmt,SIC-6282 Investment Advice
+JKHY,Jack Henry & Assoc,NASDAQ,Electronic Misc Services,SIC-7373 Services-Computer Integrated Systems Design
+JLL,Jones Lang Lasalle Inc,NYSE,Real Estate Operations,SIC-6531 Real Estate Agents & Managers (For Others)
+JNJ,Johnson & Johnson,NYSE,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations
+JNPR,Juniper Networks,NYSE,Wireless Equipment,SIC-3576 Computer Communications Equipment
+JPM,JP Morgan Chase & Company,NYSE,Banks - Major Regional,SIC-6021 National Commercial Banks
+JWN,Nordstrom,NYSE,Retail - Apparel & Shoes,SIC-5651 Retail-Family Clothing Stores
+K,Kellanova,NYSE,Consumer Prdts - Misc Discr,SIC-2040 Grain Mill Products
+KBR,KBR Inc,NYSE,Engineering & R&D Services,SIC-1600 Heavy Construction Other Than Bldg Const - C
+KD,Kyndryl Hldgs Inc,NYSE,Technology Services,SIC-7373 Services-Computer Integrated Systems Design
+KDP,Keurig Dr Pepper Inc,NASDAQ,Beverages - Soft,SIC-2080 Beverages
+KEX,Kirby Corp,NYSE,Transportation - Ship,SIC-4400 Water Transportation
+KEY,Keycorp,NYSE,Banks - Major Regional,SIC-6021 National Commercial Banks
+KEYS,Keysight Technologies Inc,NYSE,Electronics - Measuring Inst,"SIC-3823 Industrial Instruments For Measurement, Disp"
+KHC,Kraft Heinz Company,NASDAQ,Food - Misc & Diversified,"SIC-2030 Canned, Frozen & Preserved Fruit, Veg & Food"
+KIM,Kimco Realty Corp,NYSE,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts
+KKR,KKR & Company LP,NYSE,Finance - Investment Mgmt,SIC-6282 Investment Advice
+KLAC,K L A-Tencor Corp,NASDAQ,Electronics Products - Misc,SIC-3827 Optical Instruments & Lenses
+KMB,Kimberly-Clark Corp,NYSE,Consumer Prdts - Misc Staple,SIC-2670 Converted Paper & Paperboard Prods (No Conta
+KMI,Kinder Morgan,NYSE,Oil - Production & Pipeline,SIC-4922 Natural Gas Transmission
+KMPR,Kemper Corp,NYSE,Insurance - Multi Line,"SIC-6331 Fire, Marine & Casualty Insurance"
+KMX,Carmax Inc,NYSE,Retail - Wholesale Auto Parts,SIC-5500 Retail-Auto Dealers & Gasoline Stations
+KNSL,Kinsale Capital Group Inc,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+KNX,Knight-Swift Transporation Inc,NYSE,Transportation - Truck,SIC-4213 Trucking (No Local)
+KO,Coca-Cola Company,NYSE,Beverages - Soft,SIC-2080 Beverages
+KR,Kroger Company,NYSE,Retail - Supermarket,SIC-5411 Retail-Grocery Stores
+KRC,Kilroy Realty Corp,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+KSS,Kohl's Corp,NYSE,Retail - Regional Dept Stores,SIC-5311 Retail-Department Stores
+KVUE,Kenvue Inc,NYSE,Consumer Prdts - Misc Staple,"SIC-2844 Perfumes, Cosmetics & Other Toilet Preparati"
+L,Loews Corp,NYSE,Insurance - Multi Line,SIC-5411 Retail-Grocery Stores
+LAD,Lithia Motors,NYSE,Retail - Wsale Auto & Trucks,SIC-5500 Retail-Auto Dealers & Gasoline Stations
+LAMR,Lamar Advertis A,NASDAQ,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+LAZ,Lazard Inc,NYSE,Finance - Misc Services,SIC-6282 Investment Advice
+LBRDA,Liberty Broadband Corp Sr A,NASDAQ,Cable TV,SIC-4841 Cable & Other Pay Television Services
+LBRDK,Liberty Broadband Corp Sr C,NASDAQ,Cable TV,SIC-4841 Cable & Other Pay Television Services
+LBTYA,Liberty Global Ltd Ord A,NASDAQ,Cable TV,SIC-4841 Cable & Other Pay Television Services
+LBTYK,Liberty Global Ltd Ord C,NASDAQ,Broadcast - Radio & TV,SIC-4841 Cable & Other Pay Television Services
+LCID,Lucid Group Inc,NASDAQ,Auto - Domestic,SIC-3711 Motor Vehicles & Passenger Car Bodies
+LDOS,Leidos Holdings Inc,NYSE,Aerospace - Defense,SIC-7373 Services-Computer Integrated Systems Design
+LEA,Lear Corp,NYSE,Auto - Truck Original Parts,SIC-3714 Motor Vehicle Parts & Accessories
+LECO,Lincoln Elec Holdings,NASDAQ,Machinery - Tools & Related,SIC-3540 Metalworking Machinery & Equipment
+LEG,Leggett & Platt Inc,NYSE,Furniture,SIC-2510 Household Furniture
+LEN,Lennar Corp,NYSE,Building - Residential & Comm,SIC-1520 General Bldg Contractors - Residential Bldgs
+LEN-B,Lennar Corp Cl B,NYSE,Building - Residential & Comm,SIC-1520 General Bldg Contractors - Residential Bldgs
+LFUS,Littelfuse Inc,NASDAQ,Electronics - Misc Components,SIC-3613 Switchgear & Switchboard Apparatus
+LH,Laboratory Corp of America Holdings,NYSE,Medical - Dental Suppliers,SIC-8071 Services-Medical Laboratories
+LHX,L3Harris Technologies Inc,NYSE,Aerospace - Defense,"SIC-3812 Search, Detection, Navigation, Guidance, Aer"
+LII,Lennox International,NYSE,Building Prdcts - Air Heating,SIC-3585 Air-Cond & Warm Air Heatg Equip & Comm & Ind
+LIN,Linde Plc,NASDAQ,Chemical - Specialty,SIC-2810 Industrial Inorganic Chemicals
+LITE,Lumentum Holdings,NASDAQ,Lasers - Systems & Components,"SIC-3669 Communications Equipment, NEC"
+LKQ,LKQ Corp,NASDAQ,Auto - Truck Replacement Parts,SIC-5010 Wholesale-Motor Vehicles & Motor Vehicle Par
+LLY,Eli Lilly and Company,NYSE,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations
+LLYVA,Liberty Live Series A,NASDAQ,Diversified Comm Services,
+LLYVK,Liberty Live Series C,NASDAQ,Media Conglomerates,
+LMT,Lockheed Martin Corp,NYSE,Aerospace - Defense,SIC-3760 Guided Missiles & Space Vehicles & Parts
+LNC,Lincoln National Corp,NYSE,Insurance - Life,SIC-6311 Life Insurance
+LNG,Cheniere Energy,NYSE,Oil - US Exploration & Product,SIC-4924 Natural Gas Distribution
+LNT,Alliant Energy Corp,NASDAQ,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+LNW,Light & Wonder Inc,NASDAQ,Gaming,SIC-7373 Services-Computer Integrated Systems Design
+LOAR,Loar Holdings Inc,NYSE,Aerospace - Defense Equipment,"SIC-3728 Aircraft Parts & Auxiliary Equipment, NEC"
+LOPE,Grand Canyon Educati,NASDAQ,Schools,SIC-8200 Services-Educational Services
+LOW,Lowe's Companies,NYSE,Building Prds Retail - Wsale,SIC-5211 Retail-Lumber & Other Building Materials Dea
+LPLA,Lpl Financial Holdings,NASDAQ,Finance - Investment Brokers,"SIC-6200 Security & Commodity Brokers, Dealers, Excha"
+LPX,Louisiana-Pacific Corp,NYSE,Building Products - Wood,SIC-2400 Lumber & Wood Products (No Furniture)
+LRCX,Lam Research Corp,NASDAQ,Semi-Eqpt Wafer Fabrication,"SIC-3559 Special Industry Machinery, NEC"
+LSCC,Lattice Semicond,NASDAQ,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices
+LSTR,Landstar System,NASDAQ,Transportation - Truck,SIC-4213 Trucking (No Local)
+LULU,Lululemon Athletica,NASDAQ,Textile - Apparel,SIC-2300 Apparel & Other Finished Prods of Fabrics &
+LUV,Southwest Airlines Company,NYSE,Transportation - Airline,"SIC-4512 Air Transportation, Scheduled"
+LVS,Las Vegas Sands,NYSE,Gaming,SIC-7011 Hotels & Motels
+LW,Lamb Weston Holdings Inc,NYSE,Food - Misc & Diversified,"SIC-2030 Canned, Frozen & Preserved Fruit, Veg & Food"
+LYB,Lyondellbasell Industries NV,NYSE,Chemical - Diversified,SIC-2860 Industrial Organic Chemicals
+LYFT,Lyft Inc Cl A,NASDAQ,Internet - Services,"SIC-7389 Services-Business Services, NEC"
+LYV,Live Nation Entertainment,NYSE,Leisure & Recreation Services,SIC-7900 Services-Amusement & Recreation Services
+M,Macy's Inc,NYSE,Retail - Regional Dept Stores,SIC-5311 Retail-Department Stores
+MA,Mastercard Inc,NYSE,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC"
+MAA,Mid-America Apartment Communities,NYSE,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts
+MAN,Manpower Inc,NYSE,Staffing,SIC-7363 Services-Help Supply Services
+MANH,Manhattan Assoc,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+MAR,Marriot Int Cl A,NASDAQ,Hotels & Motels,SIC-7011 Hotels & Motels
+MAS,Masco Corp,NYSE,Building & Construction - Misc,"SIC-3430 Heating Equip, Except Elec & Warm Air; & Plu"
+MASI,Masimo Corp,NASDAQ,Medical Instruments,SIC-3845 Electromedical & Electrotherapeutic Apparatu
+MAT,Mattel Inc,NASDAQ,Toys & Game & Hobby,SIC-3942 Dolls & Stuffed Toys
+MCD,McDonald's Corp,NYSE,Retail - Restaurants,SIC-5812 Retail-Eating Places
+MCHP,Microchip Technology,NASDAQ,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices
+MCK,Mckesson Corp,NYSE,Medical - Dental Suppliers,"SIC-5122 Wholesale-Drugs, Proprietaries & Druggists"
+MCO,Moody's Corp,NYSE,Finance - Misc Services,"SIC-7320 Services-Consumer Credit Reporting, Collecti"
+MDB,Mongodb Inc Cl A,NASDAQ,Internet - Software,SIC-7372 Services-Prepackaged Software
+MDLZ,Mondelez Intl Inc,NASDAQ,Food - Misc & Diversified,SIC-2000 Food and Kindred Products
+MDT,Medtronic Inc,NYSE,Medical Products,SIC-3845 Electromedical & Electrotherapeutic Apparatu
+MDU,Mdu Res Group Inc,NYSE,Utility - Gas Distribution,SIC-1400 Mining & Quarrying of Nonmetallic Minerals
+MEDP,Medpace Holdings Inc,NASDAQ,Medical Services,SIC-8731 Services-Commercial Physical & Biological Re
+MET,Metlife Inc,NYSE,Insurance - Multi Line,SIC-6311 Life Insurance
+META,Meta Platforms Inc,NASDAQ,Internet - Software,"SIC-7370 Services-Computer Programming, Data Processi"
+MGM,MGM Resorts International,NYSE,Gaming,SIC-7011 Hotels & Motels
+MHK,Mohawk Industries,NYSE,Textile - Home Furnishings,SIC-2273 Carpets & Rugs
+MIDD,Middleby Corp,NASDAQ,Machinery - General Industrial,SIC-3580 Refrigeration & Service Industry Machinery
+MKC,Mccormick & Company,NYSE,Food - Misc & Diversified,SIC-2090 Miscellaneous Food Preparations & Kindred Pr
+MKL,Markel Corp,NYSE,Conglomerates - Div Operations,"SIC-6331 Fire, Marine & Casualty Insurance"
+MKSI,Mks Instruments Inc,NASDAQ,Electrical - Manufacturing,"SIC-3823 Industrial Instruments For Measurement, Disp"
+MKTX,Marketaxess Holdings,NASDAQ,Securities Exchanges,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+MLM,Martin Marietta Materials,NYSE,Building - CMT & CNT & AG,SIC-1400 Mining & Quarrying of Nonmetallic Minerals
+MMC,Marsh & Mclennan Companies,NYSE,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service"
+MMM,3M Company,NYSE,Conglomerates - Div Operations,SIC-3841 Surgical & Medical Instruments & Apparatus
+MNST,Monster Beverage Corp,NASDAQ,Beverages - Soft,SIC-2086 Bottled & Canned Soft Drinks & Carbonated Wa
+MO,Altria Group,NYSE,Tobacco,SIC-2111 Cigarettes
+MOH,Molina Healthcare Inc,NYSE,Medical - HMO,SIC-6324 Hospital & Medical Service Plans
+MORN,Morningstar Inc,NASDAQ,Business Information,SIC-6282 Investment Advice
+MOS,Mosaic Company,NYSE,Fertilizers,SIC-2870 Agricultural Chemicals
+MP,MP Materials Corp,NYSE,Mining - Misc,SIC-1000 Metal Mining
+MPC,Marathon Petroleum Corp,NYSE,Oil - Refining and Marketing,SIC-2911 Petroleum Refining
+MPW,Medical Properties Trust,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+MPWR,Monolithic Power Sys,NASDAQ,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices
+MRK,Merck & Company,NYSE,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations
+MRNA,Moderna Inc,NASDAQ,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc"
+MRO,Marathon Oil Corp,NYSE,Oil - US Integrated,SIC-1311 Crude Petroleum & Natural Gas
+MRVL,Marvell Technology Inc,NASDAQ,Technology Services,SIC-3674 Semiconductors & Related Devices
+MS,Morgan Stanley,NYSE,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+MSA,Msa Safety Inc,NYSE,Protection - Safety,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances"
+MSCI,MSCI Inc,NYSE,Business Software Services,"SIC-7389 Services-Business Services, NEC"
+MSFT,Microsoft Corp,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+MSGS,Madison Square Garden Sports Corp,NYSE,Leisure & Recreation Services,SIC-7990 Services-Miscellaneous Amusement & Recreatio
+MSI,Motorola Solutions,NYSE,Wireless Equipment,SIC-3663 Radio & Tv Broadcasting & Communications Equ
+MSM,Msc Industrial Direct Company,NYSE,Industrial Services,SIC-5084 Wholesale-Industrial Machinery & Equipment
+MSTR,Microstrategy Cl A,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+MTB,M&T Bank Corp,NYSE,Banks - Major Regional,SIC-6022 State Commercial Banks
+MTCH,Match Group Inc,NASDAQ,Internet Commerce,"SIC-7370 Services-Computer Programming, Data Processi"
+MTD,Mettler-Toledo International,NYSE,Industrial Scientific,SIC-3826 Laboratory Analytical Instruments
+MTDR,Matador Resources Company,NYSE,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+MTG,Mgic Investment Corp,NYSE,Insurance - Multi Line,SIC-6351 Surety Insurance
+MTN,Vail Resorts,NYSE,Leisure & Recreation Services,SIC-7990 Services-Miscellaneous Amusement & Recreatio
+MTSI,Macom Technology S,NASDAQ,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices
+MTZ,Mastec Inc,NYSE,Building - Heavy Construction,"SIC-1623 Water, Sewer, Pipeline, Comm & Power Line Co"
+MU,Micron Technology,NASDAQ,Semi Memory,SIC-3674 Semiconductors & Related Devices
+MUSA,Murphy USA Inc,NYSE,Oil - Refining and Marketing,SIC-5500 Retail-Auto Dealers & Gasoline Stations
+NBIX,Neurocrine Bioscienc,NASDAQ,Medical - Drugs,"SIC-2836 Biological Products, (No Disgnostic Substanc"
+NCLH,Norwegian Cruise Ord,NYSE,Leisure & Recreation Services,SIC-4400 Water Transportation
+NCNO,Ncino Inc,NASDAQ,Internet - Software,SIC-7372 Services-Prepackaged Software
+NDAQ,Nasdaq Inc,NASDAQ,Securities Exchanges,"SIC-6200 Security & Commodity Brokers, Dealers, Excha"
+NDSN,Nordson Corp,NASDAQ,Machinery - General Industrial,"SIC-3569 General Industrial Machinery & Equipment, NE"
+NEE,Nextera Energy,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+NEM,Newmont Mining Corp,NYSE,Mining - Gold,SIC-1040 Gold and Silver Ores
+NET,Cloudflare Inc Cl A,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+NEU,Newmarket Corp,NYSE,Chemical - Specialty,SIC-2860 Industrial Organic Chemicals
+NFE,New Fortress Energy Llc,NASDAQ,Oil - International Integrated,SIC-4924 Natural Gas Distribution
+NFG,National Fuel Gas Company,NYSE,Utility - Gas Distribution,SIC-4924 Natural Gas Distribution
+NFLX,Netflix Inc,NASDAQ,Broadcast - Radio & TV,SIC-7841 Services-Video Tape Rental
+NI,NiSource Inc,NYSE,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+NKE,Nike Inc,NYSE,Shoes and Related Apparel,SIC-3021 Rubber & Plastics Footwear
+NLY,Annaly Capital Management Inc,NYSE,REIT - Mortgage Trusts,SIC-6798 Real Estate Investment Trusts
+NNN,NNN REIT Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+NOC,Northrop Grumman Corp,NYSE,Aerospace - Defense,"SIC-3812 Search, Detection, Navigation, Guidance, Aer"
+NOV,Nov Inc,NYSE,Technology Services,SIC-3533 Oil & Gas Field Machinery & Equipment
+NOW,Servicenow Inc,NYSE,IT Services,SIC-7372 Services-Prepackaged Software
+NRG,NRG Energy,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+NSA,National Storage Affiliates Tru,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+NSC,Norfolk Southern Corp,NYSE,Transportation - Rail,"SIC-4011 Railroads, Line-Haul Operating"
+NTAP,Netapp Inc,NASDAQ,Computer - Storage Devices,SIC-3572 Computer Storage Devices
+NTNX,Nutanix Inc,NASDAQ,IT Services,SIC-7372 Services-Prepackaged Software
+NTRA,Natera Inc,NASDAQ,Medical Services,SIC-8071 Services-Medical Laboratories
+NTRS,Northern Trust Corp,NASDAQ,Banks - Major Regional,SIC-6022 State Commercial Banks
+NU,Nu Holdings Ltd Cl A,NYSE,Technology Services,SIC-6199 Finance Services
+NUE,Nucor Corp,NYSE,Steel - Producers,"SIC-3312 Steel Works, Blast Furnaces & Rolling Mills"
+NVDA,Nvidia Corp,NASDAQ,Semi General,SIC-3674 Semiconductors & Related Devices
+NVR,NVR Inc,NYSE,Building - Residential & Comm,SIC-1531 Operative Builders
+NVST,Envista Holdings Corp,NYSE,Medical Products,SIC-3843 Dental Equipment & Supplies
+NVT,Nvent Electric Plc,NYSE,Electronics - Misc Components,SIC-3550 Special Industry Machinery (No Metalworking
+NWL,Newell Rubbermaid Inc,NASDAQ,Consumer Prdts - Misc Staple,"SIC-3089 Plastics Products, NEC"
+NWS,News Corp Cl B,NASDAQ,Movie & TV Production & Dist,SIC-2711 Newspapers: Publishing or Publishing & Print
+NWSA,News Corp Cl A,NASDAQ,Movie & TV Production & Dist,SIC-2711 Newspapers: Publishing or Publishing & Print
+NXST,Nexstar Media Group Inc,NASDAQ,Broadcast - Radio & TV,SIC-4833 Television Broadcasting Stations
+NYT,New York Times Company,NYSE,Publishing - Newspapers,SIC-2711 Newspapers: Publishing or Publishing & Print
+O,Realty Income Corp,NYSE,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts
+OC,Owens Corning Inc,NYSE,Building & Construction - Misc,"SIC-3290 Abrasive, Asbestos & Misc Non-metallic Miner"
+ODFL,Old Dominion Freight Line Inc,NASDAQ,Transportation - Truck,SIC-4213 Trucking (No Local)
+OGE,Oge Energy Corp,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+OGN,Organon & Co.,NYSE,Medical Services,SIC-2834 Pharmaceutical Preparations
+OHI,Omega Healthcare Investors,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+OKE,Oneok Inc,NYSE,Oil Gas Prod Pipeline MLP,SIC-4923 Natural Gas Transmission & Distribution
+OKTA,Okta Inc Cl A,NASDAQ,Internet Software Services,SIC-7372 Services-Prepackaged Software
+OLED,Universal Display,NASDAQ,Electronics - Misc Components,SIC-3670 Electronic Components & Accessories
+OLLI,Ollies Bargain CS,NASDAQ,Consumer Prdts - Misc Staple,SIC-5331 Retail-Variety Stores
+OLN,Olin Corp,NYSE,Chemical - Diversified,SIC-2800 Chemicals & Allied Products
+OMC,Omnicom Group Inc,NYSE,Advertising Marketing Services,SIC-7311 Services-Advertising Agencies
+OMF,Onemain Holdings Inc,NYSE,Finance - Consumer Loans,SIC-6141 Personal Credit Institutions
+ON,On Semiconductor,NASDAQ,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices
+ONTO,Onto Innovation Inc,NYSE,Nanotechnology,"SIC-3829 Measuring & Controlling Devices, NEC"
+ORCL,Oracle Corp,NYSE,Computer - Software,SIC-7372 Services-Prepackaged Software
+ORI,Old Republic International Corp,NYSE,Insurance - Multi Line,SIC-6351 Surety Insurance
+ORLY,O'Reilly Automotive,NASDAQ,Retail - Wholesale Auto Parts,SIC-5531 Retail-Auto & Home Supply Stores
+OSK,Oshkosh Truck Corp,NYSE,Auto - Truck Original Parts,SIC-3711 Motor Vehicles & Passenger Car Bodies
+OTIS,Otis Worldwide Corp,NYSE,Building & Construction - Misc,SIC-3600 Electronic & Other Electrical Equipment (No
+OVV,Ovintiv Inc,NYSE,Oil - C$ Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+OWL,Blue Owl Capital Inc,NYSE,Finance - Investment Mgmt,SIC-6282 Investment Advice
+OXY,Occidental Petroleum Corp,NYSE,Oil - US Integrated,SIC-1311 Crude Petroleum & Natural Gas
+OZK,Bank Ozk,NASDAQ,Banks - Northeast,SIC-6022 State Commercial Banks
+PAG,Penske Automotive Group,NYSE,Retail - Wsale Auto & Trucks,SIC-5500 Retail-Auto Dealers & Gasoline Stations
+PANW,Palo Alto Networks Inc,NASDAQ,Internet - Software,"SIC-3577 Computer Peripheral Equipment, NEC"
+PARA,Paramount Global Cl B,NASDAQ,Media Conglomerates,SIC-4833 Television Broadcasting Stations
+PARAA,Paramount Global Cl A,NASDAQ,Media Conglomerates,SIC-4833 Television Broadcasting Stations
+PATH,Uipath Inc Cl A,NYSE,Technology Services,SIC-7372 Services-Prepackaged Software
+PAYC,Paycom Software Inc,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+PAYX,Paychex Inc,NASDAQ,Outsourcing,"SIC-8700 Services-Engineering, Accounting, Research,"
+PB,Prosperity Bancshares,NYSE,Banks - Southwest,SIC-6022 State Commercial Banks
+PCAR,Paccar Inc,NASDAQ,Auto - Domestic,SIC-3711 Motor Vehicles & Passenger Car Bodies
+PCG,Pacific Gas & Electric Company,NYSE,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+PCOR,Procore Technologies Inc,NYSE,Technology Services,SIC-7372 Services-Prepackaged Software
+PCTY,Paylocity Holdings Corp,NASDAQ,Internet - Software,SIC-7372 Services-Prepackaged Software
+PEG,Public Service Enterprise Group Inc,NYSE,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+PEGA,Pegasystems Inc,NASDAQ,Computer - Software,SIC-7374 Services-Computer Processing & Data Preparat
+PEN,Penumbra Inc,NYSE,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus
+PENN,Penn Entertainment Inc,NASDAQ,Gaming,SIC-7011 Hotels & Motels
+PEP,Pepsico Inc,NASDAQ,Beverages - Soft,SIC-2080 Beverages
+PFE,Pfizer Inc,NYSE,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations
+PFG,Principal Financial Group Inc,NASDAQ,Finance - Investment Mgmt,SIC-6321 Accident & Health Insurance
+PFGC,Performance Food Group Company,NYSE,Food Items - Wholesale,"SIC-5141 Wholesale-Groceries, General Line"
+PG,Procter & Gamble Company,NYSE,Soap and Cleaning Products,"SIC-2840 Soap, Detergents, Cleaning Preparations, Per"
+PGR,Progressive Corp,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+PH,Parker-Hannifin Corp,NYSE,Machinery - General Industrial,SIC-3490 Miscellaneous Fabricated Metal Products
+PHM,Pultegroup,NYSE,Building - Residential & Comm,SIC-1531 Operative Builders
+PII,Polaris Inc,NYSE,Auto - Domestic,SIC-3790 Miscellaneous Transportation Equipment
+PINC,Premier Inc Cl A,NASDAQ,Medical Services,SIC-8741 Services-Management Services
+PINS,Pinterest Inc,NYSE,Internet - Software,"SIC-7370 Services-Computer Programming, Data Processi"
+PK,Park Hotels & Resorts Inc,NYSE,REIT - Equity Trust Other,SIC-7011 Hotels & Motels
+PKG,Packaging Corp of America,NYSE,Containers - Paper Products,SIC-2650 Paperboard Containers & Boxes
+PLD,Prologis Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+PLNT,Planet Fitness,NYSE,Leisure & Recreation Services,SIC-7997 Services-Membership Sports & Recreation Club
+PLTK,Playtika Holding Corp,NASDAQ,Gaming,SIC-7374 Services-Computer Processing & Data Preparat
+PLTR,Palantir Technologies Inc Cl A,NYSE,Technology Services,SIC-7372 Services-Prepackaged Software
+PM,Philip Morris International Inc,NYSE,Tobacco,SIC-2111 Cigarettes
+PNC,PNC Bank,NYSE,Banks - Major Regional,SIC-6021 National Commercial Banks
+PNFP,Pinnacle Finl Ptnrs,NASDAQ,Banks - Southeast,SIC-6021 National Commercial Banks
+PNR,Pentair Ltd,NYSE,Machinery - Thermal Processing,SIC-3550 Special Industry Machinery (No Metalworking
+PNW,Pinnacle West Capital Corp,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+PODD,Insulet Corp,NASDAQ,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus
+POOL,Pool Corp,NASDAQ,Leisure & Recreational Prdcts,SIC-5090 Wholesale-Misc Durable Goods
+POST,Post Holdings Inc,NYSE,Food - Misc & Diversified,SIC-2040 Grain Mill Products
+PPC,Pilgrim's Pride,NASDAQ,Food - Meat Products,SIC-2015 Poultry Slaughtering and Processing
+PPG,PPG Industries,NYSE,Chemical - Specialty,"SIC-2851 Paints, Varnishes, Lacquers, Enamels & Allie"
+PPL,PPL Corp,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+PR,Permian Resources Corp,NYSE,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+PRGO,Perrigo Company,NYSE,Medical Products,SIC-2834 Pharmaceutical Preparations
+PRI,Primerica Inc,NYSE,Insurance - Life,SIC-6311 Life Insurance
+PRU,Prudential Financial Inc,NYSE,Insurance - Multi Line,SIC-6311 Life Insurance
+PSA,Public Storage,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+PSN,Parsons Corp,NYSE,Technology Services,SIC-7373 Services-Computer Integrated Systems Design
+PSTG,Pure Storage Inc,NYSE,Computer - Storage Devices,SIC-3572 Computer Storage Devices
+PSX,Phillips 66,NYSE,Oil - Refining and Marketing,SIC-2911 Petroleum Refining
+PTC,Ptc Inc,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+PVH,Phillips-Van Heusen Corp,NYSE,Textile - Apparel,"SIC-2320 Mens & Boys Furnishings, Work Clothg, & Alli"
+PWR,Quanta Services,NYSE,Engineering & R&D Services,SIC-1731 Electrical Work
+PYCR,Paycor Hcm Inc,NASDAQ,Internet - Software,SIC-7372 Services-Prepackaged Software
+PYPL,Paypal Holdings,NASDAQ,Internet - Software,"SIC-7389 Services-Business Services, NEC"
+QCOM,Qualcomm Inc,NASDAQ,Wireless Equipment,SIC-3663 Radio & Tv Broadcasting & Communications Equ
+QDEL,Quidelortho Corp,NASDAQ,Medical Products,SIC-2835 In Vitro & In Vivo Diagnostic Substances
+QGEN,Qiagen N.V.,NYSE,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc"
+QRVO,Qorvo Inc,NASDAQ,Semi Radio Frequency,SIC-3674 Semiconductors & Related Devices
+QS,Quantumscape Corp,NYSE,Auto - Truck Original Parts,"SIC-3690 Miscellaneous Electrical Machinery, Equipmen"
+R,Ryder System,NYSE,Transportation - Equip & Lease,SIC-7510 Services-Auto Rental & Leasing (No Drivers)
+RARE,Ultragenyx Pharmaceu,NASDAQ,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+RBA,Rb Global Inc,NYSE,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC"
+RBC,RBC Bearings Inc,NYSE,Machinery - General Industrial,SIC-3562 Ball & Roller Bearings
+RBLX,Roblox Corp Cl A,NYSE,Gaming,SIC-7372 Services-Prepackaged Software
+RCL,Royal Caribbean Cruises Ltd,NYSE,Leisure & Recreation Services,SIC-4400 Water Transportation
+RCM,R1 Rcm Inc,NASDAQ,Technology Services,SIC-8741 Services-Management Services
+REG,Regency Centers Corp,NASDAQ,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts
+REGN,Regeneron Pharmaceuticals,NASDAQ,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+REXR,Rexford Industrial Realty Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+REYN,Reynolds Consumer Products Inc,NASDAQ,Consumer Prdts - Misc Discr,"SIC-2673 Plastics, Foil & Coated Paper Bags"
+RF,Regions Financial Corp,NYSE,Banks - Southeast,SIC-6021 National Commercial Banks
+RGA,Reinsurance Group of America Inc,NYSE,Insurance - Life,SIC-6311 Life Insurance
+RGEN,Repligen Corp,NASDAQ,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc"
+RGLD,Royal Gold Inc,NASDAQ,Mining - Gold,SIC-6795 Mineral Royalty Traders
+RH,Rh Common Stock,NYSE,Consumer Prdts - Misc Staple,SIC-5712 Retail-Furniture Stores
+RHI,Robert Half Inc,NYSE,Staffing,SIC-7363 Services-Help Supply Services
+RITM,Rithm Capital Corp,NYSE,Finance - Misc Services,SIC-6798 Real Estate Investment Trusts
+RIVN,Rivian Automotive Inc Cl A,NASDAQ,Auto - Domestic,SIC-3711 Motor Vehicles & Passenger Car Bodies
+RJF,Raymond James Financial,NYSE,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+RKT,Rocket Companies Inc Cl A,NYSE,Finance - Mortgage & Rel Svs,SIC-6162 Mortgage Bankers & Loan Correspondents
+RL,Ralph Lauren Corp,NYSE,Textile - Apparel,"SIC-2320 Mens & Boys Furnishings, Work Clothg, & Alli"
+RLI,Rli Corp,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+RMD,Resmed Inc,NYSE,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus
+RNG,Ringcentral Inc,NYSE,Internet Software Services,SIC-7374 Services-Computer Processing & Data Preparat
+RNR,Renaissancere Holdings Ltd,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+ROIV,Roivant Sciences Ltd,NASDAQ,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+ROK,Rockwell Automation Inc,NYSE,Industrial Robotics,"SIC-3829 Measuring & Controlling Devices, NEC"
+ROKU,Roku Inc,NASDAQ,Broadcast - Radio & TV,SIC-4841 Cable & Other Pay Television Services
+ROL,Rollins Inc,NYSE,Building - Maint & Service,SIC-7340 Services-To Dwellings & Other Buildings
+ROP,Roper Industries,NASDAQ,IT Services,"SIC-3823 Industrial Instruments For Measurement, Disp"
+ROST,Ross Stores Inc,NASDAQ,Retail - Discount,SIC-5651 Retail-Family Clothing Stores
+RPM,RPM International Inc,NYSE,Paint & Related Products,"SIC-2851 Paints, Varnishes, Lacquers, Enamels & Allie"
+RPRX,Royalty Pharma Plc Cl A,NASDAQ,Finance - Misc Services,SIC-2834 Pharmaceutical Preparations
+RRC,Range Resources Corp,NYSE,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+RRX,Regal Rexnord Corp,NYSE,Machinery - General Industrial,"SIC-3569 General Industrial Machinery & Equipment, NE"
+RS,Reliance Inc,NYSE,Mining - Misc,SIC-5051 Wholesale-Metals Service Centers & offices
+RSG,Republic Services,NYSE,Waste Removal Svcs,SIC-4953 Refuse Systems
+RTX,Rtx Corp,NYSE,Aerospace - Defense,SIC-3724 Aircraft Engines & Engine Parts
+RVTY,Revvity Inc,NYSE,Medical Services,SIC-3826 Laboratory Analytical Instruments
+RYAN,Ryan Specialty Hldgs Inc,NYSE,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service"
+RYN,Rayonier Inc REIT,NYSE,Building Products - Wood,SIC-6798 Real Estate Investment Trusts
+S,Sentinelone Inc Cl A,NYSE,IT Services,SIC-7372 Services-Prepackaged Software
+SAIA,Saia Inc,NASDAQ,Transportation - Truck,SIC-4213 Trucking (No Local)
+SAIC,Science Applications International,NASDAQ,IT Services,SIC-7373 Services-Computer Integrated Systems Design
+SAM,Boston Beer Company,NYSE,Beverages - Alcohol,SIC-2082 Malt Beverages
+SBAC,SBA Communications,NASDAQ,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+SBUX,Starbucks Corp,NASDAQ,Retail - Restaurants,SIC-5810 Retail-Eating & Drinking Places
+SCCO,Southern Copper Corp,NYSE,Mining - Non Ferrous,SIC-1000 Metal Mining
+SCHW,The Charles Schwab Corp,NYSE,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+SCI,Service Corp International,NYSE,Funeral Services & Related,SIC-7200 Services-Personal Services
+SEB,Seaboard Corp,NYSE Arca,Food - Misc & Diversified,SIC-5150 Wholesale-Farm Product Raw Materials
+SEE,Sealed Air Corp,NYSE,Containers - Paper Products,"SIC-2820 Plastic Material, Synth Resin/Rubber, Cellul"
+SEG,Seaport Entertainment Group Inc,NYSE Arca,Real Estate Operations,N/A
+SEIC,Sei Investments Company,NASDAQ,Finance - Investment Mgmt,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+SF,Stifel Financial Corp,NYSE,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+SHC,Sotera Health Company,NASDAQ,Medical Services,"SIC-8090 Services-Misc Health & Allied Services, NEC"
+SHW,Sherwin-Williams Company,NYSE,Paint & Related Products,"SIC-5200 Retail-Building Materials, Hardware, Garden"
+SIRI,Siriusxm Holdings Inc,NASDAQ,Broadcast - Radio & TV,SIC-4832 Radio Broadcasting Stations
+SITE,Siteone Landscape Supply,NYSE,Industrial Services,SIC-5040 Wholesale-Professional & Commercial Equipmen
+SJM,J.M. Smucker Company,NYSE,Food - Misc & Diversified,"SIC-2033 Canned, Fruits, Veg, Preserves, Jams & Jelli"
+SKX,Skechers U.S.A.,NYSE,Shoes and Related Apparel,"SIC-3140 Footwear, (No Rubber)"
+SLB,Schlumberger N.V.,NYSE,Oil - Field Services,"SIC-1389 Oil & Gas Field Services, NEC"
+SLGN,Silgan Holdings,NYSE,Containers - Metal & Glass,SIC-3411 Metal Cans
+SLM,SLM Corp,NASDAQ,Finance - Consumer Loans,SIC-6141 Personal Credit Institutions
+SMAR,Smartsheet Inc Cl A,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+SMCI,Super Micro Computer,NASDAQ,Computer - Storage Devices,SIC-3571 Electronic Computers
+SMG,Scotts Miracle-Gro Company,NYSE,Fertilizers,SIC-2870 Agricultural Chemicals
+SN,Sharkninja Inc,NYSE,Furniture,SIC-3630 Household Appliances
+SNA,Snap-On Inc,NYSE,Tools - Hand Held,"SIC-3420 Cutlery, Handtools & General Hardware"
+SNDR,Schneider National Inc,NYSE,Transportation - Services,SIC-4213 Trucking (No Local)
+SNOW,Snowflake Inc Cl A,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+SNPS,Synopsys Inc,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+SNV,Synovus Financial Corp,NYSE,Banks - Southeast,SIC-6021 National Commercial Banks
+SNX,Synnex Corp,NYSE,Electronics Products - Misc,SIC-5045 Wholesale-Computers & Peripheral Equipment &
+SO,Southern Company,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+SOFI,Sofi Technologies Inc,NASDAQ,Finance - Misc Services,SIC-6199 Finance Services
+SOLV,Solventum Corporation,NYSE,Medical Services,SIC-3841 Surgical & Medical Instruments & Apparatus
+SON,Sonoco Products,NYSE,Containers - Paper Products,SIC-2650 Paperboard Containers & Boxes
+SPB,Spectrum Brands Holdings Inc,NYSE,Consumer Prdts - Misc Discr,"SIC-3690 Miscellaneous Electrical Machinery, Equipmen"
+SPG,Simon Property Group,NYSE,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts
+SPGI,S&P Global Inc,NYSE,Business Information,"SIC-7320 Services-Consumer Credit Reporting, Collecti"
+SPOT,Spotify Technology S.A.,NYSE,Technology Services,SIC-4832 Radio Broadcasting Stations
+SPR,Spirit Aerosystems Holdings,NYSE,Aerospace - Defense Equipment,"SIC-3728 Aircraft Parts & Auxiliary Equipment, NEC"
+SQ,Block Inc,NYSE,Technology Services,SIC-7372 Services-Prepackaged Software
+SRCL,Stericycle Inc,NASDAQ,Waste Removal Svcs,SIC-4955 Hazardous Waste Management
+SRE,Sempra,NYSE,Utility - Gas Distribution,SIC-4932 Gas & Other Services Combined
+SRPT,Sarepta Therapeutics,NASDAQ,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+SSD,Simpson Manufacturing Company,NYSE,Building & Construction - Misc,"SIC-3420 Cutlery, Handtools & General Hardware"
+SSNC,SS&C Technologies,NASDAQ,Computer - Software,SIC-7372 Services-Prepackaged Software
+ST,Sensata Technologies Holding N.V.,NYSE,Industrial Controls,"SIC-3823 Industrial Instruments For Measurement, Disp"
+STAG,Stag Industrial Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+STE,Steris Corp,NYSE,Medical Instruments,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances"
+STLD,Steel Dynamics Inc,NASDAQ,Steel - Producers,"SIC-3312 Steel Works, Blast Furnaces & Rolling Mills"
+STT,State Street Corp,NYSE,Banks - Major Regional,SIC-6022 State Commercial Banks
+STWD,Starwood Property Trust,NYSE,REIT - Mortgage Trusts,SIC-6798 Real Estate Investment Trusts
+STZ,Constellation Brands Inc,NYSE,Beverages - Alcohol,SIC-2080 Beverages
+SUI,Sun Communities,NYSE,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts
+SW,Smurfit Westrock Plc,NYSE,Paper & Related Products,SIC-3661 Telephone & Telegraph Apparatus
+SWK,Stanley Black & Decker Inc,NYSE,Machinery - Tools & Related,"SIC-3420 Cutlery, Handtools & General Hardware"
+SWKS,Skyworks Solutions,NASDAQ,Semi Radio Frequency,SIC-3674 Semiconductors & Related Devices
+SWN,Southwestern Energy Company,NYSE,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+SYF,Synchrony Financial,NYSE,Finance - Misc Services,SIC-6199 Finance Services
+SYK,Stryker Corp,NYSE,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus
+SYY,Sysco Corp,NYSE,Food - Misc & Diversified,SIC-5140 Wholesale-Groceries & Related Products
+T,AT&T Inc,NYSE,Wireless National,SIC-4812 Radiotelephone Communications
+TAP,Molson Coors Brewing Company,NYSE,Beverages - Alcohol,SIC-2082 Malt Beverages
+TDC,Teradata Corp,NYSE,Computer - Storage Devices,SIC-7372 Services-Prepackaged Software
+TDG,Transdigm Group Inc,NYSE,Aerospace - Defense Equipment,"SIC-3728 Aircraft Parts & Auxiliary Equipment, NEC"
+TDY,Teledyne Technologies Inc,NYSE,Aerospace - Defense Equipment,"SIC-3812 Search, Detection, Navigation, Guidance, Aer"
+TEAM,Atlassian Corp,NASDAQ,Internet - Software,SIC-7372 Services-Prepackaged Software
+TECH,Bio-Techne Corp,NASDAQ,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc"
+TER,Teradyne Inc,NASDAQ,Electronic Test Equipment,SIC-3825 Instruments For Meas & Testing of Electricit
+TFC,Truist Financial Corp,NYSE,Banks - Major Regional,SIC-6021 National Commercial Banks
+TFSL,Tfs Financial Corp,NASDAQ,Finance - Savings & Loan,"SIC-6035 Savings Institution, Federally Chartered"
+TFX,Teleflex Inc,NYSE,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus
+TGT,Target Corp,NYSE,Retail - Discount,SIC-5331 Retail-Variety Stores
+THC,Tenet Healthcare Corp,NYSE,Medical - Hospitals,SIC-8062 Services-General Medical & Surgical Hospital
+THG,The Hanover Insurance Group,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+THO,Thor Industries,NYSE,Building - Mobile Homes & RV,SIC-3716 Motor Homes
+TJX,TJX Companies,NYSE,Retail - Discount,SIC-5651 Retail-Family Clothing Stores
+TKO,Tko Group Holdings Inc Cl A,NYSE,Movie & TV Production & Dist,SIC-7900 Services-Amusement & Recreation Services
+TKR,Timken Company,NYSE,Metal Production & Fabrication,SIC-3562 Ball & Roller Bearings
+TMO,Thermo Fisher Scientific Inc,NYSE,Medical Instruments,"SIC-3829 Measuring & Controlling Devices, NEC"
+TMUS,T-Mobile US,NASDAQ,Wireless National,SIC-4812 Radiotelephone Communications
+TNL,Travel + Leisure Co.,NYSE,Leisure & Recreation Services,SIC-7011 Hotels & Motels
+TOL,Toll Brothers Inc,NYSE,Building - Residential & Comm,SIC-1531 Operative Builders
+TOST,Toast Inc Cl A,NYSE,Internet - Software,SIC-7374 Services-Computer Processing & Data Preparat
+TPG,Tpg Inc Cl A,NASDAQ,Finance - Investment Mgmt,SIC-6282 Investment Advice
+TPL,Texas Pacific Land Trust,NYSE,Other Alt Energy,SIC-6792 Oil Royalty Traders
+TPR,Tapestry Inc,NYSE,Retail - Apparel & Shoes,SIC-3100 Leather & Leather Products
+TPX,Tempur-Pedic International Inc,NYSE,Retail - Home Furniture,SIC-2510 Household Furniture
+TREX,Trex Company,NYSE,Building Products - Wood,SIC-2400 Lumber & Wood Products (No Furniture)
+TRGP,Targa Resources,NYSE,Oil Refining & Marketing MLP,SIC-4922 Natural Gas Transmission
+TRIP,Tripadvisor Inc,NASDAQ,Internet Commerce,"SIC-7370 Services-Computer Programming, Data Processi"
+TRMB,Trimble Navigation,NASDAQ,Electronics Products - Misc,"SIC-3829 Measuring & Controlling Devices, NEC"
+TROW,T Rowe Price Group,NASDAQ,Finance - Investment Mgmt,"SIC-6200 Security & Commodity Brokers, Dealers, Excha"
+TRU,Transunion,NYSE,Business Information,"SIC-7320 Services-Consumer Credit Reporting, Collecti"
+TRV,The Travelers Companies Inc,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+TSCO,Tractor Supply Company,NASDAQ,Retail - Misc & Diversified,"SIC-5200 Retail-Building Materials, Hardware, Garden"
+TSLA,Tesla Inc,NASDAQ,Auto - Domestic,SIC-3711 Motor Vehicles & Passenger Car Bodies
+TSN,Tyson Foods,NYSE,Food - Meat Products,SIC-2015 Poultry Slaughtering and Processing
+TT,Trane Technologies Plc,NYSE,Technology Services,SIC-3822 Auto Controls For Regulating Residential & C
+TTC,Toro Company,NYSE,Tools - Hand Held,SIC-3524 Lawn & Garden Tractors & Home Lawn & Gardens
+TTD,Trade Desk Inc,NASDAQ,Internet - Services,"SIC-7370 Services-Computer Programming, Data Processi"
+TTEK,Tetra Tech Inc,NASDAQ,Pollution Controls,SIC-8711 Services-Engineering Services
+TTWO,Take-Two Interactive,NASDAQ,Toys & Game & Hobby,SIC-7372 Services-Prepackaged Software
+TW,Tradeweb Markets Inc,NASDAQ,Finance - Investment Brokers,"SIC-6200 Security & Commodity Brokers, Dealers, Excha"
+TWLO,Twilio,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+TXG,10X Genomics Inc,NASDAQ,Medical Information Systems,SIC-3826 Laboratory Analytical Instruments
+TXN,Texas Instruments,NASDAQ,Semi General,SIC-3674 Semiconductors & Related Devices
+TXRH,Texas Roadhouse Inc,NASDAQ,Retail - Restaurants,SIC-5812 Retail-Eating Places
+TXT,Textron Inc,NYSE,Aerospace - Defense,SIC-3720 Aircraft & Parts
+TYL,Tyler Technologies,NYSE,Business Software Services,SIC-7372 Services-Prepackaged Software
+U,Unity Software Inc,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+UA,Under Armour Inc Cl C,NYSE,Textile - Apparel,SIC-5611 Mens and Boys  Clothing and Accessory Stores
+UAA,Under Armour,NYSE,Textile - Apparel,SIC-2300 Apparel & Other Finished Prods of Fabrics &
+UAL,United Airlines Holdings Inc,NASDAQ,Transportation - Airline,"SIC-4512 Air Transportation, Scheduled"
+UBER,Uber Technologies Inc,NYSE,Internet - Services,"SIC-7389 Services-Business Services, NEC"
+UDR,United Dominion Realty Trust,NYSE,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts
+UGI,Ugi Corp,NYSE,Utility - Gas Distribution,SIC-4932 Gas & Other Services Combined
+UHAL-B,U-Haul Holding Series N Non-Voting,NYSE,N/A,
+UHAL,U-Haul Holding Company,NYSE,Transportation - Services,SIC-7510 Services-Auto Rental & Leasing (No Drivers)
+UHS,Universal Health Services,NYSE,Medical - Hospitals,SIC-8062 Services-General Medical & Surgical Hospital
+UI,Ubiquiti Networks,NYSE,Wireless Equipment,SIC-3663 Radio & Tv Broadcasting & Communications Equ
+ULTA,Ulta Beauty Inc,NASDAQ,Retail - Misc & Diversified,"SIC-5990 Retail-Retail Stores, NEC"
+UNH,Unitedhealth Group Inc,NYSE,Medical - HMO,SIC-6324 Hospital & Medical Service Plans
+UNM,Unumprovident Corp,NYSE,Insurance - Accident & Health,SIC-6321 Accident & Health Insurance
+UNP,Union Pacific Corp,NYSE,Transportation - Rail,"SIC-4011 Railroads, Line-Haul Operating"
+UPS,United Parcel Service,NYSE,Transportation - Air Freight,SIC-4210 Trucking & Courier Services (No Air)
+URI,United Rentals,NYSE,Building & Construction - Misc,"SIC-7359 Services-Equipment Rental & Leasing, NEC"
+USB,U.S. Bancorp,NYSE,Banks - Major Regional,SIC-6021 National Commercial Banks
+USFD,US Foods Holding,NYSE,Food - Misc & Diversified,SIC-5140 Wholesale-Groceries & Related Products
+UTHR,United Therapeutic,NASDAQ,Medical - Drugs,SIC-2834 Pharmaceutical Preparations
+UWMC,Uwm Hldg Corp,NYSE,Finance - Mortgage & Rel Svs,SIC-6162 Mortgage Bankers & Loan Correspondents
+V,Visa Inc,NYSE,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC"
+VAC,Marriot Vacations Worldwide Cor,NYSE,Leisure & Recreation Services,SIC-6531 Real Estate Agents & Managers (For Others)
+VEEV,Veeva Systems Inc,NYSE,Internet - Software,SIC-7372 Services-Prepackaged Software
+VFC,V.F. Corp,NYSE,Textile - Apparel,"SIC-2320 Mens & Boys Furnishings, Work Clothg, & Alli"
+VICI,Vici Properties Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+VIRT,Virtu Financial Cm A,NASDAQ,Finance - Misc Services,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+VKTX,Viking Thera,NASDAQ,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+VLO,Valero Energy Corp,NYSE,Oil - Refining and Marketing,SIC-2911 Petroleum Refining
+VLTO,Veralto Corporation,NYSE,Technology Services,SIC-3825 Instruments For Meas & Testing of Electricit
+VMC,Vulcan Materials Company,NYSE,Building - CMT & CNT & AG,SIC-1400 Mining & Quarrying of Nonmetallic Minerals
+VMI,Valmont Industries,NYSE,Steel - Pipe & Tube,SIC-3440 Fabricated Structural Metal Products
+VNO,Vornado Realty Trust,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+VNOM,Viper Energy Inc,NASDAQ,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas
+VNT,Vontier Corp,NYSE,Technology Services,SIC-3824 Totalizing Fluid Meters & Counting Devices
+VOYA,VOYA Financial Inc,NYSE,Insurance - Life,SIC-6311 Life Insurance
+VRSK,Verisk Analytics Inc,NASDAQ,Business Information,SIC-7374 Services-Computer Processing & Data Preparat
+VRSN,Verisign Inc,NASDAQ,Internet Software Services,SIC-7371 Services-Computer Programming Services
+VRT,Vertiv Holdings Llc.,NYSE,IT Services,"SIC-3679 Electronic Components, NEC"
+VRTX,Vertex Pharmaceutic,NASDAQ,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations
+VST,Vistra Energy Corp,NYSE,Utility - Electric Power,SIC-4911 Electric Services
+VSTS,Vestis Corporation,NYSE,Consumer Prdts - Misc Staple,SIC-5190 Wholesale-Miscellaneous Nondurable Goods
+VTR,Ventas Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+VTRS,Viatris Inc,NASDAQ,Medical Services,SIC-2834 Pharmaceutical Preparations
+VVV,Valvoline Inc,NYSE,Chemical - Specialty,SIC-2990 Miscellaneous Products of Petroleum & Coal
+VZ,Verizon Communications Inc,NYSE,Wireless National,SIC-4813 Telephone Communications (No Radiotelephone)
+W,Wayfair Inc,NYSE,Internet Commerce,SIC-5961 Retail-Catalog & Mail-Order Houses
+WAB,Wabtec Corp,NYSE,Transportation - Equip & Lease,SIC-3743 Railroad Equipment
+WAL,Western Alliance Bancorp,NYSE,Banks - West,SIC-6022 State Commercial Banks
+WAT,Waters Corp,NYSE,Medical Instruments,SIC-3826 Laboratory Analytical Instruments
+WBA,Walgreens Boots Alliance,NASDAQ,Retail - Drug Stores,SIC-5912 Retail-Drug Stores and Proprietary Stores
+WBD,Discovery Inc Series A,NASDAQ,Broadcast - Radio & TV,SIC-4841 Cable & Other Pay Television Services
+WBS,Webster Financial Corp,NYSE,Banks - Northeast,SIC-6021 National Commercial Banks
+WCC,Wesco International,NYSE,Electronics - Parts Distrib,"SIC-5063 Wholesale-Electrical Apparatus & Equipment,"
+WDAY,Workday Inc,NASDAQ,Internet - Software,SIC-7374 Services-Computer Processing & Data Preparat
+WDC,Western Digital Corp,NASDAQ,Computer - Storage Devices,SIC-3572 Computer Storage Devices
+WEC,Wisconsin Energy Corp,NYSE,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+WELL,Welltower Inc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+WEN,Wendys Company,NASDAQ,Retail - Restaurants,SIC-5810 Retail-Eating & Drinking Places
+WEX,Wex Inc,NYSE,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC"
+WFC,Wells Fargo & Company,NYSE,Banks - Major Regional,SIC-6021 National Commercial Banks
+WFRD,Weatherford International Plc,NASDAQ,Oil - Field Services,SIC-3533 Oil & Gas Field Machinery & Equipment
+WH,Wyndham Hotels & Resorts Inc,NYSE,Hotels & Motels,SIC-7011 Hotels & Motels
+WHR,Whirlpool Corp,NYSE,Appliances - Household,SIC-3630 Household Appliances
+WING,Wingstop Inc,NASDAQ,Retail - Restaurants,SIC-5812 Retail-Eating Places
+WLK,Westlake Corp,NYSE,Chemical - Plastics,SIC-2860 Industrial Organic Chemicals
+WM,Waste Management,NYSE,Waste Removal Svcs,SIC-4953 Refuse Systems
+WMB,Williams Companies,NYSE,Oil - Production & Pipeline,SIC-4922 Natural Gas Transmission
+WMS,Advanced Drainage Systems Inc,NYSE,Building & Construction - Misc,SIC-3086 Plastics Foam Products
+WMT,Walmart Inc,NYSE,Retail - Supermarket,SIC-5331 Retail-Variety Stores
+WOLF,Wolfspeed Inc,NYSE,Semi Discretes,SIC-3674 Semiconductors & Related Devices
+WPC,W.P. Carey & Company Llc,NYSE,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts
+WRB,W.R. Berkley Corp,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+WSC,Willscot Holdings Corp,NASDAQ,Real Estate Operations,SIC-7350 Services-Miscellaneous Equipment Rental & Le
+WSM,Williams-Sonoma,NYSE,Retail - Home Furniture,"SIC-5700 Retail-Home Furniture, Furnishings & Equipme"
+WSO,Watsco Inc,NYSE,Building Prdcts - Air Heating,SIC-5070 Wholesale-Hardware & Plumbing & Heating Equi
+WST,West Pharmaceutical Services,NYSE,Medical - Dental Suppliers,SIC-3841 Surgical & Medical Instruments & Apparatus
+WTFC,Wintrust Financial Corp,NASDAQ,Banks - Midwest,SIC-6022 State Commercial Banks
+WTM,White Mountains Insurance Group,NYSE,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance"
+WTRG,Essential Utilities Inc,NYSE,Utility - Water Supply,SIC-4941 Water Supply
+WTW,Willis Towers Watson Public Ltd,NASDAQ,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service"
+WU,Western Union Company,NYSE,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC"
+WWD,Woodward Inc,NASDAQ,Industrial Controls,SIC-3620 Electrical Industrial Apparatus
+WY,Weyerhaeuser Company,NYSE,Building Products - Wood,SIC-6798 Real Estate Investment Trusts
+WYNN,Wynn Resorts Ltd,NASDAQ,Gaming,SIC-7011 Hotels & Motels
+X,United States Steel Corp,NYSE,Steel - Producers,"SIC-3312 Steel Works, Blast Furnaces & Rolling Mills"
+XEL,XCEL Energy Inc,NASDAQ,Utility - Electric Power,SIC-4931 Electric & Other Services Combined
+XOM,Exxon Mobil Corp,NYSE,Oil - International Integrated,SIC-2911 Petroleum Refining
+XP,XP Inc Cl A,NASDAQ,Finance - Misc Services,"SIC-6211 Security Brokers, Dealers & Flotation Compan"
+XPO,Xpo Inc,NYSE,Transportation - Truck,SIC-4700 Transportation Services
+XRAY,Dentsply Sirona Inc,NASDAQ,Medical - Dental Suppliers,SIC-3843 Dental Equipment & Supplies
+XYL,Xylem Inc,NYSE,Machinery - General Industrial,SIC-3561 Pumps & Pumping Equipment
+YETI,Yeti Holdings Inc,NYSE,Leisure & Recreational Prdcts,"SIC-3949 Sporting & Athletic Goods, NEC"
+YUM,Yum! Brands,NYSE,Retail - Restaurants,SIC-5812 Retail-Eating Places
+Z,Zillow Group Cl C,NASDAQ,Real Estate Operations,"SIC-7389 Services-Business Services, NEC"
+ZBH,Zimmer Biomet Holdings,NYSE,Medical Products,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances"
+ZBRA,Zebra Technologies,NASDAQ,Machinery - Thermal Processing,SIC-3560 General Industrial Machinery & Equipment
+ZG,Zillow Grp Inc Cl A,NASDAQ,Finance - Mortgage & Rel Svs,"SIC-7389 Services-Business Services, NEC"
+ZI,Zoominfo Technologies Inc Cl A,NASDAQ,Computer - Integrated Systems,SIC-7372 Services-Prepackaged Software
+ZION,Zions Bancorp,NASDAQ,Banks - West,SIC-6021 National Commercial Banks
+ZM,Zoom Video Communications Cl A,NASDAQ,Internet - Software,"SIC-7370 Services-Computer Programming, Data Processi"
+ZS,Zscaler Inc,NASDAQ,Internet - Services,SIC-7371 Services-Computer Programming Services
+ZTS,Zoetis Inc Cl A,NYSE,Medical - Drugs,SIC-2834 Pharmaceutical Preparations
